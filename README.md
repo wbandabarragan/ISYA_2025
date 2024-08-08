@@ -8,6 +8,7 @@
 
 #### Where?
 Yachay Tech University
+Ecuador
 
 #### Format?
 In person
