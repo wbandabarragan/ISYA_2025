@@ -1,6 +1,6 @@
-![area-verde-3](https://github.com/user-attachments/assets/6aacef96-594f-49c1-ad5a-dbcf7099ec8f)
-
 # The International School for Young Astronomers 2025: Ecuador
+
+![area-verde-3](https://github.com/user-attachments/assets/6aacef96-594f-49c1-ad5a-dbcf7099ec8f)
 
 ## General Information
 
