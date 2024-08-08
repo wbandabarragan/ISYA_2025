@@ -4,7 +4,7 @@
 
 
 #### When?
-July
+6 -26 July 2024
 
 #### Where?
 Yachay Tech University
