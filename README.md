@@ -7,7 +7,7 @@
 
 
 #### Where?
-Yachay Tech
+Yachay Tech University
 
 #### Format?
 In person
