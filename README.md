@@ -4,7 +4,7 @@
 
 
 #### When?
-
+July
 
 #### Where?
 Yachay Tech University
