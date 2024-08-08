@@ -1,4 +1,4 @@
-![campus-2](https://github.com/user-attachments/assets/620178aa-976c-4a20-9888-7ba1dbe8c0ee)
+![area-verde-3](https://github.com/user-attachments/assets/6aacef96-594f-49c1-ad5a-dbcf7099ec8f)
 
 # The International School for Young Astronomers 2025: Ecuador
 
