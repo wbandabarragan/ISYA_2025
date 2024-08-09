@@ -16,13 +16,21 @@ The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarr
 
 ### From Ibarra (Terminal Terreste Ibarra)
 -  Purchase a ticket from the ticket office (0.15 USD) to access the bus zone for the bus to Urcuquí.
--  The bus company going to Urcuquí called "Urcuqui". These buses arrive and depart every 15-20 minutes and the cost is 0.75 USD. The trip takes around 40-50 minutes depending on the traffic. <img width="548" alt="image (1)" src="https://github.com/ciencialatitud0/EPIC_3/assets/37318512/85b802e5-c38d-4e2b-aeed-65351d19c0ad">
+-  The bus company going to Urcuquí called "Urcuqui". These buses arrive and depart every 15-20 minutes and the cost is 0.75 USD. The trip takes around 40-50 minutes depending on the traffic.
+
+<img width="548" alt="image (1)" src="https://github.com/ciencialatitud0/EPIC_3/assets/37318512/85b802e5-c38d-4e2b-aeed-65351d19c0ad">
 
 -  When you arrive at Urcuquí you have to get off at a bus stop located next to the "Urcuquí Cemetery".
+  
 -  Walk around the corner to the other side of the Urcuquí Cemetery, where you'll find another bus stop. Here you have two options to reach the University:
-  - Urcuquí pick-up trucks which arrive and depart every 15 minutes and the cost is 0.35 USD <img width="759" alt="image (2)" src="https://github.com/ciencialatitud0/EPIC_3/assets/37318512/96c2943f-b270-4b27-84b9-2ee37295c9f7">
 
-  - Urcuquí buses which arrive and depart every 30 minutes and the cost is 0.40 USD.
+-  Urcuquí buses which arrive and depart every 30 minutes and the cost is 0.40 USD.
+
+-  Urcuquí pick-up trucks which arrive and depart every 15 minutes and the cost is 0.35 USD
+
+<img width="759" alt="image (2)" src="https://github.com/ciencialatitud0/EPIC_3/assets/37318512/96c2943f-b270-4b27-84b9-2ee37295c9f7">
+
+
 
 
 ### From Quito (Carcelén Bus Station)
