@@ -4,7 +4,7 @@
 title: ISYA
 author: Yachay Tech University
 logo: logo.png
-site.time | date: '%Y'
+date: '%Y'
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
