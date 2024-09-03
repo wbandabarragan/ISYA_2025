@@ -53,19 +53,35 @@ TBD
 ## Organising Committee
  
 ### Directors
-Itziar Aretxaga – ISYA Program Director
-David Mota – ISYA Deputy Director
 
+* David Andrade - Yachay Tech University
 
-## Invited Speakers and Lecturers
-* 
+* Nicolás Vásquez - Escuela Politécnica Nacional
 
+* Itziar Aretxaga – ISYA Program Director
 
-## Scientific Organizing Committee
-* 
+* David Mota – ISYA Deputy Director
 
-## Local Organizing Committee
-* 
+### Scientific Organising Committee
+
+* Clara Rojas - Yachay Tech University
+ 
+* Helga Dénes - Yachay Tech University
+  
+* Wladimir Banda-Barragán - Yachay Tech University
+
+### Local Organising Committee
+
+* José Manuel Ramírez - Yachay Tech University
+  
+* Christian Vásconez - Escuela Politécnica Nacional
+ 
+* Benjamín de Zayas - Yachay Tech University
+  
+* Lofti Boubekeur - Escuela Politécnica Nacional
+ 
+* Lenin Jácome - Yachay Tech University
+
 
 ## School Poster
 
