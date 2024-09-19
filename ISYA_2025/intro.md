@@ -34,8 +34,6 @@ https://www.yachaytech.edu.ec/en/physicsandnanotech
 
 **Dates**: 6th - 26th July 2025
 
-**Time investment**: 40 hours per week for 3 full weeks
-
 **Format**: In person
 
 **Duration**: 3 weeks
