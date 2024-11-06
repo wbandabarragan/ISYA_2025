@@ -36,7 +36,7 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 **Duration**: 3 weeks
 
 
-## Application Deadline:
+## Application Deadline
 
 15th March 2025
 
