@@ -45,9 +45,11 @@ https://www.yachaytech.edu.ec/en/physicsandnanotech
 
 #### Registration requirements
 
-1. Please fill out the application questionnaire below. The form should be completed in English, and a 3-page CV should be uploaded to it.
+1. Please fill out the application questionnaire below. The form should be completed in English.
+
+2. Upload your up-to-date CV in PDF format to the online form (maximum 3 pages).
   
-2. Arrange for 2 letters of recommendation to be sent (directly by the recommenders) via email to: isya2025.ecuador@yachaytech.edu.ec
+3. Arrange for 2 letters of recommendation to be sent (directly by the recommenders) via email to: isya2025.ecuador@yachaytech.edu.ec
 
 ## Organising Committee
  
@@ -61,15 +63,13 @@ https://www.yachaytech.edu.ec/en/physicsandnanotech
 
 * David Mota – ISYA Deputy Director
 
-### Scientific Organising Committee
+### Local Organising Committee
 
-* Clara Rojas - Yachay Tech University
- 
-* Helga Dénes - Yachay Tech University
-  
 * Wladimir Banda-Barragán - Yachay Tech University
 
-### Local Organising Committee
+* Helga Dénes - Yachay Tech University
+  
+* Clara Rojas - Yachay Tech University
 
 * José Manuel Ramírez - Yachay Tech University
   
