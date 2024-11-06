@@ -6,7 +6,7 @@
 
 The International School for Young Astronomers (ISYA) is an initiative of the International Astronomical Union (IAU) to reinforce and promote the development of professional astronomy in communities around the world. The ISYA places a special emphasis on students located in areas that do not have the benefit of a local research institute that teaches most of the sub-disciplines of Astronomy.
 
-The IAU Executive Committee has selected Yachay Tech University, to host its 46th International School for Young Astronomers from the 6th to the 26th of July 2025. The School is co-organized by 4 universities in Ecuador, namely Yachay Tech University, Escuela Politécnica Nacional, Universidad Central del Ecuador, and Universidad del Azuay.
+The Office for Young Astronomers of the IAU has selected Yachay Tech University, to host its 46th International School for Young Astronomers from the 6th to the 26th of July 2025. The School is co-organized by 4 universities in Ecuador, namely Yachay Tech University, Escuela Politécnica Nacional, Universidad Central del Ecuador, and Universidad del Azuay.
 
 In the 46th International School for Young Astronomers (ISYA 2025), we expect to receive applications to attend this School from students in their early MSc/PhD studies and some senior undergraduates in the Americas, especially from Latin American and Caribbean countries. Around 30 students will be selected to participate in this school. All the selected students will participate in an intensive three-week program of lectures, practical tutorials and research projects, with up-to-date astrophysics, both on theory and observations, led by an international team of experts. They will learn about different astronomical fields, from cosmology through galaxies and the interstellar medium to stellar physics, and acquire technical expertise to analyze current observational and simulation data, mainly from access to large databases and simulation catalogues.
 
@@ -40,13 +40,14 @@ https://www.yachaytech.edu.ec/en/physicsandnanotech
 
 
 ## Application Deadline:
-TBD
+
+15th March 2025
 
 #### Registration requirements
 
-
-## Certificate
-
+1. Please fill out the application questionnaire below. The form should be completed in English, and a 3-page CV should be uploaded to it.
+  
+2. Arrange for 2 letters of recommendation to be sent (directly by the recommenders) via email to: isya2025.ecuador@yachaytech.edu.ec
 
 ## Organising Committee
  
