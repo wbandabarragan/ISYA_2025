@@ -40,7 +40,7 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 15th March 2025
 
-#### Registration requirements
+## Registration requirements
 
 1. Please fill out the application questionnaire below. The form should be completed in English.
 
@@ -49,6 +49,31 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 3. Upload your up-to-date CV in PDF format to the online form (maximum 3 pages).
   
 4. Arrange for 2 letters of recommendation to be sent (directly by the recommenders) via email to: isya2025.ecuador@yachaytech.edu.ec
+
+## Lecturer and Tutors
+
+- Stellar Astrophysics, Alessandro Bressan (SISSA, Italy)
+
+- Compact Objects, Jorge Rueda (ICRA, Italy)
+  
+- Interstellar Medium, Laurence Sabin (IA-UNAM, Mexico)
+  
+- Galaxies, Itziar Aretxaga (INAOE, Mexico)
+
+- Cosmology, David Mota (U. Oslo, Norway)
+
+- Radio Astronomy, Helga Dénes (Yachay Tech U., Ecuador)
+
+- Python for Astrophysics, Wladimir Banga-Barragán (Yachay Tech U., Ecuador)
+
+- Optical Observational Astronomy, Karín Menénde-Delmestre (Obs. Valongo, Brazil)
+  
+- Virtual Observatory, Thiago Signori (Obs. Valongo, Brazil)
+
+- Machine Learning, Juan Rafael Martínez Galarza (CfA, Harvard, USA)
+
+- Cultural Astronomy, Nicolás Vásquez (EPN, Ecuador)
+
 
 ## Organising Committee
  
