@@ -1,6 +1,7 @@
 # Courses
 
-### Stellar Astrophysics (Alessandro Bressan, 5 lectures)
+## Course 1: Stellar Astrophysics
+### Alessandro Bressan, 5 lectures
 
 #### Lecture 1) Stars and stellar populations.
 
@@ -61,7 +62,8 @@
 - Type Ia Supernovae
 
 
-### Active Galactic Nuclei (Itziar Aretxaga, 2 lectures):
+## Course 2: Active Galactic Nuclei
+### Itziar Aretxaga, 2 lectures
 
 An overview of activity in the nuclei of galaxies not ascribed to stellar processes. Classification of objects, unification framework, supermassive black holes and their role in galaxy formation and evolution.
 
@@ -90,7 +92,8 @@ An overview of activity in the nuclei of galaxies not ascribed to stellar proces
 - QSOs in the context of galaxy formation and evolution
   
 
-## Cosmology Course (David Fonseca Mota, 5 lectures)
+## Course 3: Cosmology Course
+### David Fonseca Mota, 5 lectures
 
 This course explores key aspects of cosmology, including the development of cosmological models, the nature of the universe's constituents, and its thermal history. It also examines observational evidence, theoretical foundations, and research frontiers in cosmology.
 
@@ -117,12 +120,12 @@ This course explores key aspects of cosmology, including the development of cosm
 - Angular power spectrum and its cosmological implications
   
 - CMB as a probe of:
-  
-        • Density fluctuations in the early universe
-  
-        • Parameters of the standard cosmological model
-  
-        • Evidence for inflation and the Lambda-CDM model
+
+  Density fluctuations in the early universe
+
+  Parameters of the standard cosmological model
+
+  Evidence for inflation and the Lambda-CDM model
 
 #### Lecture 3) The Theory of Gravitation and Inflationary Cosmology
 
@@ -151,11 +154,11 @@ This course explores key aspects of cosmology, including the development of cosm
 #### Lecture 5) Research Topics in Cosmology
 
 - Galaxies and clusters of galaxies as tools to probe:
-  
-        • Dark energy and its properties
 
-        • Dark matter distribution and behavior
+  Dark energy and its properties
 
-        • Gravity beyond General Relativity
+  Dark matter distribution and behavior
+
+  Gravity beyond General Relativity
 
   
