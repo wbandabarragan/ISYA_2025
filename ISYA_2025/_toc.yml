@@ -6,10 +6,8 @@ root: intro
 parts:
   - caption: General Information
     chapters:
-    - file: info/dates.md  
-    - file:  info/registration.md  
     - file:  info/speakers.md
-    - file:  info/participants.md  
-    - file:  info/schedule.md  
+    - file:  info/courses.md
+    - file:  info/participants.md   
     - file:  info/programme.md
     - file:  info/practical-information.md
