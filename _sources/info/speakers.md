@@ -1,4 +1,4 @@
-# Speakers
+# Lecturers
 
 - Stellar Astrophysics, Alessandro Bressan (SISSA, Italy)
 
