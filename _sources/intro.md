@@ -50,7 +50,7 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
   
 4. Arrange for 2 letters of recommendation to be sent (directly by the recommenders) via email to: isya2025.ecuador@yachaytech.edu.ec
 
-## Lecturer and Tutors
+## Lecturers and Tutors
 
 - Stellar Astrophysics, Alessandro Bressan (SISSA, Italy)
 
