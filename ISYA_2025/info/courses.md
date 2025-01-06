@@ -213,4 +213,65 @@ This course explores key aspects of cosmology, including the development of cosm
 
   Gravity beyond General Relativity
 
+
+## Course 4: Radio Astronomy
+### Helga Dénes, 5 practicals
+
+#### Lecture 1) Radio astronomy fundamentals
+
+- 
+  
+- 
+  
+- 
+
+#### Lecture 2)⁠ ⁠Data processing. From raw observations to products.
+
+#### Lecture 3)⁠ ⁠Radio sources
+
+#### Lecture 4)⁠ ⁠Spectral line analysis of 3D radio data with python
+
+#### Lecture 5) ⁠Radio continuum analysis with python.
+
+## Course 5: Python for Astrophysics Course Outline:
+### Wladimir Banda-Barragán, 5 practicals
+
+#### Lecture 1) Python essentials for computational astrophysics
+
+- Python notebooks and 1D data analysis
+  
+- Multi-dimensional data analysis
+  
+- Astronomical image processing
+
+#### Lecture 2) Simulation data formats and visualisation
+
+- Astrophysical gas simulations
+  
+- Mesh data vs point data
+  
+- VTK and HDF5 data formats
+  
+#### Lecture 3) Analysis of 3D meshed data of ISM simulations
+
+- Interstellar medium simulations
+  
+- 3D simulation data analysis 
+  
+- Loops and animations
+
+#### Lecture 4) Shock finding algorithms and the py4shocks module
+
+- Hydrodynamic shock theory
+  
+- Magnetohydrodynamic shock theory
+  
+- Velocity-jump methods for shock finding
+
+#### Lecture 5) Tutorial on using py4shocks for characterising ISM shocks
+
+- py4shocks: a module to find shock waves
+  
+- Research applications
+
   
