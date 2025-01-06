@@ -219,12 +219,6 @@ This course explores key aspects of cosmology, including the development of cosm
 
 #### Lecture 1) Radio astronomy fundamentals
 
-- 
-  
-- 
-  
-- 
-
 #### Lecture 2)⁠ ⁠Data processing. From raw observations to products.
 
 #### Lecture 3)⁠ ⁠Radio sources
@@ -273,5 +267,11 @@ This course explores key aspects of cosmology, including the development of cosm
 - py4shocks: a module to find shock waves
   
 - Research applications
+
+#### Bibliography:
+
+- Landau, Rubin, Computational physics : problem solving with python, 2015
+  
+- Kong, Qingkai; Siauw, Timmy; Bayen, Alexandre, Python Programming And Numerical Methods: A Guide For Engineers And Scientists, 2020
 
   
