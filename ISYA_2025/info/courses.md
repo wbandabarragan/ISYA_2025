@@ -1,8 +1,8 @@
 # Courses
 
-## Stellar Astrophysics (Alessandro Bressan, 5 lectures)
+### Stellar Astrophysics (Alessandro Bressan, 5 lectures)
 
-### Lecture 1) Stars and stellar populations.
+#### Lecture 1) Stars and stellar populations.
 
 - Magnitudes; Colors; Distances; Proper Motions;
 
@@ -10,7 +10,7 @@
 
 - Stellar ages and element abundances: archaeology of the Milky Way.
 
-### Lecture 2) The equations of stellar structure.
+#### Lecture 2) The equations of stellar structure.
 
 - Mass and momentum conservation. The Virial theorem.
   
@@ -18,7 +18,7 @@
   
 - Numerical Methods: solution of the system of stellar structure equations.
 
-### Lecture 3) From the Pre Main Sequence to the Main Sequence.
+#### Lecture 3) From the Pre Main Sequence to the Main Sequence.
 
 - Cloud collapse, fragmentation and proto-star contraction.
   
@@ -32,7 +32,7 @@
 
 - Evolution in the HRD
 
-### Lecture 4) Post Main Sequence evolution of Low and Intermediate mass stars.
+#### Lecture 4) Post Main Sequence evolution of Low and Intermediate mass stars.
 
 - Equation of state with electron degeneracy.
   
@@ -44,7 +44,7 @@
 
 - White Dwarfs.
 
-### Lecture 5) Massive stars.
+#### Lecture 5) Massive stars.
 
 - The HRD of massive stars.
 
@@ -60,11 +60,41 @@
   
 - Type Ia Supernovae
 
-## Cosmology Course
+
+### Active Galactic Nuclei (Itziar Aretxaga, 2 lectures):
+
+An overview of activity in the nuclei of galaxies not ascribed to stellar processes. Classification of objects, unification framework, supermassive black holes and their role in galaxy formation and evolution.
+
+
+#### Lecture 1) taxonomy
+
+- Classification of AGN
+
+- Multifrequency detection of nuclear activity and surveys
+
+- Energetics
+
+- Unification
+
+
+#### Lecture 2) the role of BHs in AGN, and of AGN in galaxy formation and evolution
+
+- Basic concepts of the standard model of AGN
+
+- Evidence for BHs in AGN
+
+- Methods to weight a BH in an AGN
+
+- Demographics of QSOs and BHs
+
+- QSOs in the context of galaxy formation and evolution
+  
+
+## Cosmology Course (David Fonseca Mota, 5 lectures)
 
 This course explores key aspects of cosmology, including the development of cosmological models, the nature of the universe's constituents, and its thermal history. It also examines observational evidence, theoretical foundations, and research frontiers in cosmology.
 
-### 1. The Observational Context
+#### Lecture 1) The Observational Context
 
 - Large-scale structure distribution in the universe
 
@@ -76,7 +106,7 @@ This course explores key aspects of cosmology, including the development of cosm
 
 - Dark energy and its role in cosmic evolution
 
-### 2. The Cosmic Microwave Background Radiation (CMB)
+#### Lecture 2) The Cosmic Microwave Background Radiation (CMB)
 
 - Discovery and significance of the CMB
 
@@ -94,7 +124,7 @@ This course explores key aspects of cosmology, including the development of cosm
   
         • Evidence for inflation and the Lambda-CDM model
 
-### 3. The Theory of Gravitation and Inflationary Cosmology
+#### Lecture 3) The Theory of Gravitation and Inflationary Cosmology
 
 - Fundamental assumptions of General Relativity and the Einstein field equations
   
@@ -108,7 +138,7 @@ This course explores key aspects of cosmology, including the development of cosm
   
 - Emergence of the fluctuation spectrum from the inflationary epoch
 
-### 4. Particle Physics and Big-Bang Nucleosynthesis
+#### Lecture 4) Particle Physics and Big-Bang Nucleosynthesis
 
 - The Standard Model of Particle Physics and its relevance to cosmology
   
@@ -118,7 +148,7 @@ This course explores key aspects of cosmology, including the development of cosm
   
 - Observational measurements of primordial light element abundances
 
-### 5. Research Topics in Cosmology
+#### Lecture 5) Research Topics in Cosmology
 
 - Galaxies and clusters of galaxies as tools to probe:
   
