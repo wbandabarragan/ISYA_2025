@@ -20,7 +20,7 @@
 
 - Machine Learning, Juan Rafael Martínez Galarza (CfA, Harvard, USA)
 
-- Cultural Astronomy, Nicolás Vásquez (EPN, Ecuador), nicolas.vasquez@epn.edu.ec
+- Cultural Astronomy, Nicolás Vásquez (EPN, Ecuador)
 
 # Tutors and student projects
 
