@@ -79,6 +79,8 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 * Lofti Boubekeur - Escuela Politécnica Nacional
  
 * Lenin Jácome - Yachay Tech University
+  
+* Raúl Puebla - Universidad Central del Ecuador
 
 
 ## School Poster
