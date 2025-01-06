@@ -28,11 +28,15 @@
   Inflationary cosmology models
   
 - Helga Dénes (Yachay Tech U., Ecuador)
+  
   Gaussian decomposition of spectral line data cubes
+  
   Analysing galaxy kinematics with radio data
   
 - Wladimir Banda-Barragán (Yachay Tech U., Ecuador)
+
   Characterising shock waves in ISM collisions
+
   Synthetic spectra from galactic wind simulations
 
 - Nicolás Vásquez (EPN, Ecuador)
