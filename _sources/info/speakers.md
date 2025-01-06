@@ -22,10 +22,18 @@
 
 - Cultural Astronomy, Nicolás Vásquez (EPN, Ecuador), nicolas.vasquez@epn.edu.ec
 
-# Tutors
+# Tutors and student projects
 
-- Inflatonary Cosmology, Clara Rojas (Yachay Tech U., Ecuador)
+- Clara Rojas (Yachay Tech U., Ecuador)
+  Inflationary cosmology models
   
-- HI in galaxies, Helga Dénes (Yachay Tech U., Ecuador)
+- Helga Dénes (Yachay Tech U., Ecuador)
+  Gaussian decomposition of spectral line data cubes
+  Analysing galaxy kinematics with radio data
   
-- Circumgalactic Medium, Wladimir Banda-Barragán (Yachay Tech U., Ecuador)
+- Wladimir Banda-Barragán (Yachay Tech U., Ecuador)
+  Characterising shock waves in ISM collisions
+  Synthetic spectra from galactic wind simulations
+
+- Nicolás Vásquez (EPN, Ecuador)
+  Studies on gamma-ray bursts
