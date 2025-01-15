@@ -62,7 +62,69 @@
 - Type Ia Supernovae
 
 
-## Course 2: Galaxies
+## Course 2: Compact Objects
+### Jorge Armando Rueda Hernández, 6 lectures
+
+#### Abstract: 
+In the present era of multi-messenger astrophysics, the information on most extreme astrophysical sources arrives from several carriers at different energies/frequencies: photons in the electromagnetic spectrum (from the microwaves to the high-energy gamma-rays ~TeV), massive charged particles (cosmic rays up to ultra-high energies ~millions of PeV), neutrinos (from the MeV to PeV), gravitational waves (in the millihertz region from space-based instruments and the kHz region from ground-based ones). We can also include dark matter particles via their gravitational interaction with astrophysical systems. All this information allows us to understand the most extreme astrophysical sources in the universe with unprecedented accuracy and detail. The explanation of the nature of the most energetic and powerful astrophysical sources (both quiescent and transient), such as binary X-ray sources, pulsars, novae, kilonovae, supernovae, hypernovae, quasars, active galactic nuclei and gamma-ray bursts, involve the presence of compact objects: white dwarfs, neutron stars and black holes in different flavors; e.g. in a variety of masses, rotation rates and present as single systems or in binaries. The increasing quality and amount of data allow us to test our knowledge and put stringent constraints on the nature of the sources and the structure, matter content, and properties of their associated exterior spacetime. The successful and helpful extraction of the above information on compact objects from data requires that we know, with sufficient accuracy, how different physical ingredients change the properties of the objects. I focus here on compact objects' physical and astrophysical aspects, emphasizing their role in multi-messenger astrophysics. Basic knowledge of atomic physics, nuclear physics, electromagnetism, statistical mechanics, classical field theory, Newtonian gravity, and General Relativity are needed to accomplish this task.
+
+#### Lectures on Physical Aspects of Compact Objects:
+
+#### Lecture 1) White dwarfs (WDs): Equation of State (EOS) and Structure
+
+- EOS at high densities and temperatures: basic concepts, zero-temperature, finite temperatures, and electromagnetic effects
+
+- Equations of equilibrium: Newtonian gravity and General Relativity
+
+- WD structure: equilibrium configurations (mass-density and mass-radius relation)
+
+- Gravitational collapse: the concept of critical mass
+
+- Rotating equilibrium configurations
+
+- Observational constraints on the WD mass-radius relation
+
+#### Lecture 2) Neutron stars (NSs): EOS and Structure
+
+- The Oppenheimer and Volkoff model
+
+- NS structure:  equilibrium configurations (mass-density and mass-radius relation)
+
+- Strong interactions and modern models of an NS
+
+- NS critical mass
+
+- Rotating equilibrium configurations
+
+- Observational constraints on the NS mass-radius relation
+
+#### Lecture 3) Black holes
+
+- Classic black hole solutions
+
+- Particle motion around black holes
+
+- The black hole mass-energy formula
+
+- The relevance of black hole electrodynamics
+
+#### Lectures on Astrophysical Aspects of Compact objects
+
+- Electromagnetic radiation: pulsar mechanism, unipolar inductor
+
+- Accretion disks (including neutrino-cooling)
+
+- Gravitational waves: deformed rotating stars and binaries
+
+- Compact objects and dark matter
+
+- Binary mergers: NS-NS, NS-WD, WD-WD and NS-BH mergers
+
+- Gamma-ray bursts: observations, theory, the association with supernovae, and the role of compact objects
+
+
+
+## Course 3: Galaxies
 ### Itziar Aretxaga, 5 lectures
 
 An overview of galaxies in the nearby and distant universe, their constituents, scaling laws and evolution through cosmic time.
@@ -144,7 +206,7 @@ The papers can be found in ADS or arXiv lists
 - NASA Extragalactic Database: http://ned.ipac.caltech.edu
   
 
-## Course 3: Cosmology Course
+## Course 4: Cosmology Course
 ### David Fonseca Mota, 5 lectures
 
 This course explores key aspects of cosmology, including the development of cosmological models, the nature of the universe's constituents, and its thermal history. It also examines observational evidence, theoretical foundations, and research frontiers in cosmology.
@@ -214,7 +276,7 @@ This course explores key aspects of cosmology, including the development of cosm
   Gravity beyond General Relativity
 
 
-## Course 4: Radio Astronomy
+## Course 5: Radio Astronomy
 ### Helga Dénes, 5 practicals
 
 #### Lecture 1) Radio astronomy fundamentals
@@ -227,7 +289,7 @@ This course explores key aspects of cosmology, including the development of cosm
 
 #### Lecture 5) ⁠Radio continuum analysis with python.
 
-## Course 5: Python for Astrophysics Course Outline:
+## Course 6: Python for Astrophysics Course Outline:
 ### Wladimir Banda-Barragán, 5 practicals
 
 #### Lecture 1) Python essentials for computational astrophysics
@@ -264,9 +326,9 @@ This course explores key aspects of cosmology, including the development of cosm
 
 #### Lecture 5) Tutorial on using py4shocks for characterising ISM shocks
 
-- py4shocks: a module to find shock waves
+- Python modules to find and characterise shock waves
   
-- Research applications
+- Research applications of shock finding
 
 #### Bibliography:
 
