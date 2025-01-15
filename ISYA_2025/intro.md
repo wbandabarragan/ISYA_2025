@@ -66,7 +66,7 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 - Python for Astrophysics, Wladimir Banga-Barragán (Yachay Tech U., Ecuador)
 
-- Optical Observational Astronomy, Karín Menénde-Delmestre (Obs. Valongo, Brazil)
+- Optical Observational Astronomy, Karín Menéndez-Delmestre (Obs. Valongo, Brazil)
   
 - Virtual Observatory, Thiago Signori (Obs. Valongo, Brazil)
 
@@ -106,6 +106,10 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 * Lenin Jácome - Yachay Tech University
   
 * Raúl Puebla - Universidad Central del Ecuador
+  
+* Daniela Galárraga-Espinosa - MPA Garching
+  
+* Jonathan Quirola-Vásquez - Radboud University
 
 
 ## School Poster
