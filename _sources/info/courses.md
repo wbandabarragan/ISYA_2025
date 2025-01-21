@@ -279,16 +279,55 @@ This course explores key aspects of cosmology, including the development of cosm
 ## Course 5: Radio Astronomy
 ### Helga Dénes, 5 practicals
 
+This course will cover the basics of how radio telescopes work, how we process radio data to obtain continuum images and spectral line data cubes, and which sources produce radio emission. In addition, the course will contain practical sessions on how to analyse radio continuum and spectral line data with python tools.  
+
 #### Lecture 1) Radio astronomy fundamentals
+- Radiation fundamentals
+  
+- Detectors
+  
+- Radio telescopes
 
-#### Lecture 2)⁠ ⁠Data processing. From raw observations to products.
-
+#### Lecture 2)⁠ ⁠Data processing - from raw observations to products
+- Software packages for radio astronomy
+  
+- Calibration of radio data
+  
+- Imaging of radio data
+  
 #### Lecture 3)⁠ ⁠Radio sources
+- Interstellar medium
+  
+- Galaxies
+  
+- Pulsars
+  
+- Black holes
 
-#### Lecture 4)⁠ ⁠Spectral line analysis of 3D radio data with python
+#### Lecture 4) ⁠Radio continuum analysis with python
+- Plotting an image with radio sources
+  
+- Identifying source in a radio image
+  
+- Measuring the flux of a radio source
+  
+- Calculating the spectral index for radio sources
 
-#### Lecture 5) ⁠Radio continuum analysis with python.
+#### Lecture 5)⁠ ⁠Spectral line analysis of 3D radio data with python
+- Handling 3D data cubes
+  
+- Making moment maps
+  
+- Plotting HI spectra
+  
+- Calculating HI mass
 
+#### Bibliography:
+
+- James J. Condon, Scott M. Ransom: Essential Radio Astronomy https://science.nrao.edu/opportunities/courses/era 
+
+- Thomas L. Wilson , Kristen Rohlfs , Susanne Hüttemeister: Tools of Radio Astronomy
+  
 ## Course 6: Python for Astrophysics Course Outline:
 ### Wladimir Banda-Barragán, 5 practicals
 
