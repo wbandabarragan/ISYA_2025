@@ -321,6 +321,12 @@ This course will cover the basics of how radio telescopes work, how we process r
 - Plotting HI spectra
   
 - Calculating HI mass
+
+#### Bibliography:
+
+- James J. Condon, Scott M. Ransom: Essential Radio Astronomy https://science.nrao.edu/opportunities/courses/era 
+
+- Thomas L. Wilson , Kristen Rohlfs , Susanne Hüttemeister: Tools of Radio Astronomy
   
 ## Course 6: Python for Astrophysics Course Outline:
 ### Wladimir Banda-Barragán, 5 practicals
