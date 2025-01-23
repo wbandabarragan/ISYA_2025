@@ -26,6 +26,10 @@
 
 - Clara Rojas (Yachay Tech U., Ecuador)
   Inflationary cosmology models
+
+  Study of the scalar power spectrum for the Hilltop inflationary model using the uniform approximation method.
+
+  Study of the tensor power spectrum for the Hilltop inflationary model using the uniform approximation method.
   
 - Helga Dénes (Yachay Tech U., Ecuador)
   
@@ -41,3 +45,7 @@
 
 - Nicolás Vásquez (EPN, Ecuador)
   Studies on gamma-ray bursts
+
+- Daniela Galárraga-Espinosa (MPA Garching, Gemrmany)
+  
+- David Andrade (Yachay Tech U., Ecuador)
