@@ -114,6 +114,7 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 ## School Poster
 
+![ISYA_poster](https://github.com/user-attachments/assets/d7c11c43-e824-4dd8-9b9d-79ef718688e8)
 
 
 ```{tableofcontents}
