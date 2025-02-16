@@ -341,7 +341,9 @@ This course will cover the basics of how radio telescopes work, how we process r
 
 - Python notebooks and kernels
   
-- Pandas, Astropy and pyRAF: 1D data analysis
+- Pandas, Astropy and pyRAF
+
+- 1D data analysis
   
 - Astronomical image processing
 
@@ -385,7 +387,7 @@ This course will cover the basics of how radio telescopes work, how we process r
 - Kong, Qingkai; Siauw, Timmy; Bayen, Alexandre, Python Programming And Numerical Methods: A Guide For Engineers And Scientists, 2020
 
 
-## Course 6: Optical Observational Astronomy
+## Course 7: Optical Observational Astronomy
 ### Karín Menéndez-Delmestre, 6 lectures/practicals
 ### Valongo Observatory of the Federal University of Rio de Janeiro (Brazil)
 
