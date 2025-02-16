@@ -339,11 +339,13 @@ This course will cover the basics of how radio telescopes work, how we process r
 
 #### Lecture 1) Python essentials for computational astrophysics
 
-- Python notebooks and 1D data analysis
+- Python notebooks and kernels
   
-- Multi-dimensional data analysis
+- Pandas, Astropy and pyRAF: 1D data analysis
   
 - Astronomical image processing
+
+- Multi-dimensional data analysis
   
 
 #### Lecture 2) Simulation data formats and visualisation
@@ -429,11 +431,8 @@ In this course we aim to familiarize students with basic concepts related to ast
 
 - Simple arithmetics!
   
-- Bringing in the computer tools*
+- Bringing in the computer tools
 
 - Using basic IRAF routines or Python
 
 ### Lecture 6: Basic Aperture Photometry (Hands-on)
-
-
-
