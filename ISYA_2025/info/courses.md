@@ -2,6 +2,7 @@
 
 ## Course 1: Stellar Astrophysics
 ### Alessandro Bressan, 5 lectures
+### SISSA, Italy
 
 #### Lecture 1) Stars and stellar populations.
 
@@ -64,6 +65,7 @@
 
 ## Course 2: Compact Objects
 ### Jorge Armando Rueda Hernández, 6 lectures
+### ICRA, Italy
 
 #### Abstract: 
 In the present era of multi-messenger astrophysics, the information on most extreme astrophysical sources arrives from several carriers at different energies/frequencies: photons in the electromagnetic spectrum (from the microwaves to the high-energy gamma-rays ~TeV), massive charged particles (cosmic rays up to ultra-high energies ~millions of PeV), neutrinos (from the MeV to PeV), gravitational waves (in the millihertz region from space-based instruments and the kHz region from ground-based ones). We can also include dark matter particles via their gravitational interaction with astrophysical systems. All this information allows us to understand the most extreme astrophysical sources in the universe with unprecedented accuracy and detail. The explanation of the nature of the most energetic and powerful astrophysical sources (both quiescent and transient), such as binary X-ray sources, pulsars, novae, kilonovae, supernovae, hypernovae, quasars, active galactic nuclei and gamma-ray bursts, involve the presence of compact objects: white dwarfs, neutron stars and black holes in different flavors; e.g. in a variety of masses, rotation rates and present as single systems or in binaries. The increasing quality and amount of data allow us to test our knowledge and put stringent constraints on the nature of the sources and the structure, matter content, and properties of their associated exterior spacetime. The successful and helpful extraction of the above information on compact objects from data requires that we know, with sufficient accuracy, how different physical ingredients change the properties of the objects. I focus here on compact objects' physical and astrophysical aspects, emphasizing their role in multi-messenger astrophysics. Basic knowledge of atomic physics, nuclear physics, electromagnetism, statistical mechanics, classical field theory, Newtonian gravity, and General Relativity are needed to accomplish this task.
@@ -126,6 +128,7 @@ In the present era of multi-messenger astrophysics, the information on most extr
 
 ## Course 3: Galaxies
 ### Itziar Aretxaga, 5 lectures
+### INAOE, México
 
 An overview of galaxies in the nearby and distant universe, their constituents, scaling laws and evolution through cosmic time.
 
@@ -206,8 +209,9 @@ The papers can be found in ADS or arXiv lists
 - NASA Extragalactic Database: http://ned.ipac.caltech.edu
   
 
-## Course 4: Cosmology Course
+## Course 4: Cosmology
 ### David Fonseca Mota, 5 lectures
+### University of Oslo, Norway
 
 This course explores key aspects of cosmology, including the development of cosmological models, the nature of the universe's constituents, and its thermal history. It also examines observational evidence, theoretical foundations, and research frontiers in cosmology.
 
@@ -277,7 +281,8 @@ This course explores key aspects of cosmology, including the development of cosm
 
 
 ## Course 5: Radio Astronomy
-### Helga Dénes, 5 practicals
+### Helga Dénes, 5 lectures/practicals
+### Yachay Tech University, Ecuador
 
 This course will cover the basics of how radio telescopes work, how we process radio data to obtain continuum images and spectral line data cubes, and which sources produce radio emission. In addition, the course will contain practical sessions on how to analyse radio continuum and spectral line data with python tools.  
 
@@ -328,8 +333,9 @@ This course will cover the basics of how radio telescopes work, how we process r
 
 - Thomas L. Wilson , Kristen Rohlfs , Susanne Hüttemeister: Tools of Radio Astronomy
   
-## Course 6: Python for Astrophysics Course Outline:
+## Course 6: Python for Astrophysics
 ### Wladimir Banda-Barragán, 5 practicals
+### Yachay Tech University, Ecuador
 
 #### Lecture 1) Python essentials for computational astrophysics
 
@@ -338,14 +344,15 @@ This course will cover the basics of how radio telescopes work, how we process r
 - Multi-dimensional data analysis
   
 - Astronomical image processing
+  
 
 #### Lecture 2) Simulation data formats and visualisation
 
 - Astrophysical gas simulations
   
-- Mesh data vs point data
-  
 - VTK and HDF5 data formats
+  
+- 2D and 3D visualisation
   
 #### Lecture 3) Analysis of 3D meshed data of ISM simulations
 
@@ -375,4 +382,58 @@ This course will cover the basics of how radio telescopes work, how we process r
   
 - Kong, Qingkai; Siauw, Timmy; Bayen, Alexandre, Python Programming And Numerical Methods: A Guide For Engineers And Scientists, 2020
 
+
+## Course 6: Optical Observational Astronomy
+### Karín Menéndez-Delmestre, 6 lectures/practicals
+### Valongo Observatory of the Federal University of Rio de Janeiro (Brazil)
+
+In this course we aim to familiarize students with basic concepts related to astronomical instrumentation, observational strategies and the processing of astronomical data. After a brief review of fundamental concepts including celestial coordinate systems, the impact of the Earth’s atmosphere on ground-based observations and the different sources of noise, we will combine lectures and hands-on activities to delve into the following topics: planning astronomical observations, remote observing (pending formal arrangements with ISYA), reduction of imaging data (with brief discussion on how to handle spectroscopic data), signal characterization and basic photometric analysis of astronomical data. These topics will be addressed primarily in the context of optical observations.
+
+#### Lecture 1) Basic Concepts in Observational Astronomy
+
+- Telescopes
   
+- Coordinate systems
+
+- Image quality (point spread function)
+
+- Atmosphere transmission
+
+- Airmass
+
+- Seeing
+
+#### Lecture 2) Signal and Sources of Noise
+
+- Detectors 
+
+- Poisson statistics
+
+- Shot noise
+
+- Sky
+
+- Read noise
+
+- Dark current
+
+#### Lecture 3) Observing Strategies & Planning your observing night (Hands-on) 
+
+#### Lecture 4) Basics of Data Reduction
+
+- Bias, Flats, Darks
+
+- What, Why, When, How long and How many
+
+#### Lecture 5) Data Reduction (Hands-on)
+
+- Simple arithmetics!
+  
+- Bringing in the computer tools*
+
+- Using basic IRAF routines or Python
+
+### Lecture 6: Basic Aperture Photometry (Hands-on)
+
+
+
