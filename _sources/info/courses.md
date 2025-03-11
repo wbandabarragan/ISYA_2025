@@ -1,8 +1,7 @@
 # Courses
 
 ## Course 1: Stellar Astrophysics
-### Alessandro Bressan, 5 lectures
-### SISSA, Italy
+### Alessandro Bressan (SISSA, Italy), 5 lectures
 
 #### Lecture 1) Stars and stellar populations.
 
@@ -64,8 +63,7 @@
 
 
 ## Course 2: Compact Objects
-### Jorge Armando Rueda Hernández, 6 lectures
-### ICRA, Italy
+### Jorge A. Rueda Hernández (ICRA, Italy), 6 lectures
 
 #### Abstract: 
 In the present era of multi-messenger astrophysics, the information on most extreme astrophysical sources arrives from several carriers at different energies/frequencies: photons in the electromagnetic spectrum (from the microwaves to the high-energy gamma-rays ~TeV), massive charged particles (cosmic rays up to ultra-high energies ~millions of PeV), neutrinos (from the MeV to PeV), gravitational waves (in the millihertz region from space-based instruments and the kHz region from ground-based ones). We can also include dark matter particles via their gravitational interaction with astrophysical systems. All this information allows us to understand the most extreme astrophysical sources in the universe with unprecedented accuracy and detail. The explanation of the nature of the most energetic and powerful astrophysical sources (both quiescent and transient), such as binary X-ray sources, pulsars, novae, kilonovae, supernovae, hypernovae, quasars, active galactic nuclei and gamma-ray bursts, involve the presence of compact objects: white dwarfs, neutron stars and black holes in different flavors; e.g. in a variety of masses, rotation rates and present as single systems or in binaries. The increasing quality and amount of data allow us to test our knowledge and put stringent constraints on the nature of the sources and the structure, matter content, and properties of their associated exterior spacetime. The successful and helpful extraction of the above information on compact objects from data requires that we know, with sufficient accuracy, how different physical ingredients change the properties of the objects. I focus here on compact objects' physical and astrophysical aspects, emphasizing their role in multi-messenger astrophysics. Basic knowledge of atomic physics, nuclear physics, electromagnetism, statistical mechanics, classical field theory, Newtonian gravity, and General Relativity are needed to accomplish this task.
@@ -127,8 +125,7 @@ In the present era of multi-messenger astrophysics, the information on most extr
 
 
 ## Course 3: Galaxies
-### Itziar Aretxaga, 5 lectures
-### INAOE, México
+### Itziar Aretxaga (INAOE, México), 5 lectures
 
 An overview of galaxies in the nearby and distant universe, their constituents, scaling laws and evolution through cosmic time.
 
@@ -210,8 +207,7 @@ The papers can be found in ADS or arXiv lists
   
 
 ## Course 4: Cosmology
-### David Fonseca Mota, 5 lectures
-### University of Oslo, Norway
+### David Fonseca Mota (Univ. Oslo, Norway), 5 lectures
 
 This course explores key aspects of cosmology, including the development of cosmological models, the nature of the universe's constituents, and its thermal history. It also examines observational evidence, theoretical foundations, and research frontiers in cosmology.
 
@@ -281,8 +277,7 @@ This course explores key aspects of cosmology, including the development of cosm
 
 
 ## Course 5: Radio Astronomy
-### Helga Dénes, 5 lectures/practicals
-### Yachay Tech University, Ecuador
+### Helga Dénes (Yachay Tech, Ecuador), 5 practicals
 
 This course will cover the basics of how radio telescopes work, how we process radio data to obtain continuum images and spectral line data cubes, and which sources produce radio emission. In addition, the course will contain practical sessions on how to analyse radio continuum and spectral line data with python tools.  
 
@@ -334,8 +329,7 @@ This course will cover the basics of how radio telescopes work, how we process r
 - Thomas L. Wilson , Kristen Rohlfs , Susanne Hüttemeister: Tools of Radio Astronomy
   
 ## Course 6: Python for Astrophysics
-### Wladimir Banda-Barragán, 5 practicals
-### Yachay Tech University, Ecuador
+### Wladimir Banda-Barragán (Yachay Tech), 5 practicals
 
 #### Lecture 1) Python essentials for computational astrophysics
 
@@ -388,8 +382,7 @@ This course will cover the basics of how radio telescopes work, how we process r
 
 
 ## Course 7: Optical Observational Astronomy
-### Karín Menéndez-Delmestre, 6 lectures/practicals
-### Valongo Observatory of the Federal University of Rio de Janeiro (Brazil)
+### Karín Menéndez-Delmestre (Valongo Obs., Brazil), 6 lectures
 
 In this course we aim to familiarize students with basic concepts related to astronomical instrumentation, observational strategies and the processing of astronomical data. After a brief review of fundamental concepts including celestial coordinate systems, the impact of the Earth’s atmosphere on ground-based observations and the different sources of noise, we will combine lectures and hands-on activities to delve into the following topics: planning astronomical observations, remote observing (pending formal arrangements with ISYA), reduction of imaging data (with brief discussion on how to handle spectroscopic data), signal characterization and basic photometric analysis of astronomical data. These topics will be addressed primarily in the context of optical observations.
 
@@ -437,4 +430,243 @@ In this course we aim to familiarize students with basic concepts related to ast
 
 - Using basic IRAF routines or Python
 
-### Lecture 6: Basic Aperture Photometry (Hands-on)
+#### Lecture 6: Basic Aperture Photometry (Hands-on)
+
+## Course 8: Virtual Observatory and the use of online databases
+### Thiago S. Goncalves (Valongo Obs., Brazil), 5 lectures
+
+This is a hands-on class on the use of publicly available data to perform astronomical research. The course will handle data at different stages from different repositories, ranging from telescope science archives to value added catalogues, finishing with the use of theoretical data from simulations. Each lecture will comprise an individual science goal to be accomplished.
+
+#### Lecture 1) Introduction to data acquisition and processing
+
+- Basics of astronomical observations
+
+- Fundamentals of data reduction: bias, flats, sky subtraction, wavelength calibration
+  
+- From data to physics: the production of value added catalogues
+
+- Navigating the universe: basic search tools and data exploration
+
+- Universe in a box: simulated data
+
+#### Lecture 2) Imaging data — ESO Science Portal 
+
+- Navigating the ESO Science Portal
+
+- Raw data vs Processed data
+
+- Data access and manipulation
+
+- Example: Photometry
+
+#### Lecture 3) Spectroscopic data — SDSS MaNGA Survey
+
+- Navigating the spectroscopic dataset
+
+- Example: Measuring spectroscopic indices
+
+#### Lecture 4) Value added catalogues — MaNGA Pipe3D
+
+- Using physical measurements for science — pros and cons
+
+- Example: Galaxy evolution as seen by MaNGA
+
+#### Lecture 5) Simulations and theoretical data — IllustrisTNG and Flathub
+
+- How do simulations work?
+
+- Fundamentals of radiative transfer codes and the production of synthetic observational data
+
+- Types of theoretical data and comparison with the real universe
+
+#### Bibliography:
+
+Astronomy Methods: A Physical Approach to Astronomical Observations (2003), Hale Bradt, Cambridge University Press.
+
+## Course 9: Interstellar Medium
+### Laurence Sabin (UNAM, México), 5 lectures
+
+#### Lecture 1) Components of the ISM (Observations)
+
+- Physical conditions (density, temperature, and pressure) - Hot gas
+
+- Warm gas (ionized and neutral)
+
+- Cold gas (atomic and molecular)
+
+- Dust
+
+- Magnetic fields and cosmic rays
+
+
+#### Lecture 2) Interstellar Dust
+
+- Composition (silicates, graphite, PAHs)
+  
+- Physical properties (sizes, heating, cooling, and charge)
+
+- Formation and destruction
+
+#### Lecture 3) Heating and Cooling Processes
+  
+- Molecular gas
+  
+- Neutral gas (HI)
+
+- Photodissociation regions - Photoionized regions
+
+- Hot ionized regions
+
+#### Lecture 4) Observational Diagnostics
+
+- Emission and absorption lines
+
+- Radio observations of molecular lines
+
+- 21 cm HI line
+
+- Optical and UV absorption lines in neutral gas
+
+- Photoionized regions:
+  
+  - Recombination lines and collisional excitation lines
+    
+  - Free-free continuum in radio
+    
+  - Density and temperature diagnostics (optical and radio)
+
+- Hot gas:
+  
+  - UV
+    
+  - X-rays
+
+- Dust:
+  
+  - Extinction
+  
+  - Emission
+  
+- Masers
+  
+- Chemical composition
+
+- Kinematics
+
+- Photoionized regions (HII regions and planetary nebulae)
+  
+  - Strömgren sphere
+    
+  - Ionization structure
+    
+  - Energy balance
+    
+#### Lecture 5) Dynamics
+
+- Shock waves
+
+- Jets and outflows - Disks
+
+#### Requirements : Projector for classes Basic Bibliography :
+
+- George B. Rybicki & Alan P. Lightman. Radiative processes in Astrophysics. John Wiley & Sons, 1985
+  
+- J. E. Dyson & D. A. The Physics of the Interstellar Medium. Williams John Wiley & Sons, 1997.
+  
+- Lyman Spitzer, Jr. Physical Processes in the Interstellar Medium. JohnWiley & Sons, 1998.
+  
+- Donald E. Osterbrock & Gary J. Ferland. Astrophysics of Gaseous Nebulae and Active Galactic Nuclei. University Science Books, 2005.
+
+- Frank Shu, The Physics of Astrophysics, Vols. 1 y 2. University Science Books, 1991.
+
+- Bruce T.Draine. Physics of the Interstellar and Intergalactic Medium. Princeton Series in Astrophysics, 2010.
+
+- Michael A. Dopitay, Ralph S. Sutherland. Astrophysics of the Diffuse Universe. Astronomy and Astrophysics Library, 2003.
+
+- J. Lequeux. Interstellar Medium. Springer Berlin Heidelberg, 2005.
+
+
+## Course 10: Machine Learning for Astronomy
+###  Juan Rafael Martínez Galarza (AstroAI, CfA, Harvard & Smithsonian)
+
+This course will provide the students with a starting toolkit for the use of machine
+learning in astronomy, with an emphasis on state-of-the-art approaches of self-supervised
+learning, sequential analysis , and statistical inference. The goal is twofold: provide a general
+overview of traditional tools in machine learning in astronomy (e.g. convolutional neural
+networks for supervised image classification), while at the same time introducing the students to
+the latest developments in the field (e.g. self-supervised learning, transformers, simulation
+based inference). The course will include practical exercises in the form of Jupyter notebooks.
+
+#### Lecture 1) Introduction to Machine Learning
+
+- Types of machine learning: supervised, unsupervised, self supervised.
+
+- Introduction to neural networks: fully connected neural networks.
+
+- Convolutional neural networks.
+
+- Supervised learning for classification and regression
+
+- Lab: Classification of galaxy images with CNNs.
+
+#### Lecture 2) Evaluation Metrics in Machine Learning
+
+- Validation, cross-validation.
+
+- Metrics: accuracy, precision, recall
+
+- The ROC curve.
+
+- Data pre-processing: imbalanced datasets, missing data
+
+- Fine-tuning hyperparameters
+
+- Lab: Evaluating the galaxy image classifier.
+
+#### Lecture 3) Unsupervised machine learning
+
+- Clustering methods.
+
+- Dimensionality reduction.
+
+- Principal component analysis.
+
+- The t-SNE and UMAP methods.
+
+- The autoencoders as non-linear PCA
+
+- Lab: Clustering galaxy morphology/anomaly detection
+
+#### Lecture 4) Machine learning for time-domain astrophysics
+
+- Introduction to time domain astronomy
+
+- Recurrent neural networks.
+
+- Transformers.
+
+- Self-supervised learning
+
+- Lab: Light curve forecasting
+
+#### Lecture 5) Statistical Inference
+
+- Bayesian analysis of data.
+
+- Variational inference.
+
+- MCMC versus variational inference.
+
+- Approximate Bayesian Computation
+
+- Normalizing flows.
+
+- Lab: Simulation Based Inference
+
+#### Bibliography
+
+- Machine Learning techniques for Physics and Astronomy, Princeton University Press, Acquaviva, ISBN: 9780691203928
+
+- Statistics, Data Mining & Machine Learning in Astronomy, Princeton University Press, Ivezić, Connolly, VanderPlas, & Gray, ISBN: 9780691198309
+
+- Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, O’Reilly Media, Géron, ISBN: 978109812

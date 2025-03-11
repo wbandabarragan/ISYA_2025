@@ -16,33 +16,30 @@
     document.documentElement.dataset.mode = localStorage.getItem("mode") || "";
     document.documentElement.dataset.theme = localStorage.getItem("theme") || "";
   </script>
-  <!--
-    this give us a css class that will be invisible only if js is disabled
-  -->
-  <noscript>
-    <style>
-      .pst-js-only { display: none !important; }
-
-    </style>
-  </noscript>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=8878045cc6db502f8baf" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+
+  
+  <link href="../_static/vendor/fontawesome/6.5.2/css/all.min.css?digest=dfe6caa3a7d634c4db9b" rel="stylesheet" />
+  <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-solid-900.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-brands-400.woff2" />
+<link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.5.2/webfonts/fa-regular-400.woff2" />
 
     <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=03e43079" />
-    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=a3416100" />
+    <link rel="stylesheet" type="text/css" href="../_static/styles/sphinx-book-theme.css?v=eba8b062" />
     <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=13237357" />
     <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
     <link rel="stylesheet" type="text/css" href="../_static/mystnb.4510f1fc1dee50b3e5859aac5469c37c29e427902b24a333a5f9fcb2f0b3ac41.css" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-thebe.css?v=4fa983c6" />
     <link rel="stylesheet" type="text/css" href="../_static/sphinx-design.min.css?v=95c83b7e" />
   
-  <!-- So that users can add custom icons -->
-  <script src="../_static/scripts/fontawesome.js?digest=8878045cc6db502f8baf"></script>
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf" />
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b" />
+  <script src="../_static/vendor/fontawesome/6.5.2/js/all.min.js?digest=dfe6caa3a7d634c4db9b"></script>
 
     <script src="../_static/documentation_options.js?v=9eb32ce0"></script>
     <script src="../_static/doctools.js?v=9a2dae69"></script>
@@ -67,7 +64,6 @@
     <link rel="prev" title="Lecturers" href="speakers.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
-  <meta name="docsearch:version" content="" />
   </head>
   
   
@@ -83,8 +79,19 @@
     <i class="fa-solid fa-arrow-up"></i>Back to top</button>
 
   
-  <dialog id="pst-search-dialog">
-    
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-primary-sidebar-checkbox"/>
+  <label class="overlay overlay-primary" for="pst-primary-sidebar-checkbox"></label>
+  
+  <input type="checkbox"
+          class="sidebar-toggle"
+          id="pst-secondary-sidebar-checkbox"/>
+  <label class="overlay overlay-secondary" for="pst-secondary-sidebar-checkbox"></label>
+  
+  <div class="search-button__wrapper">
+    <div class="search-button__overlay"></div>
+    <div class="search-button__search-container">
 <form class="bd-search d-flex align-items-center"
       action="../search.html"
       method="get">
@@ -92,6 +99,7 @@
   <input type="search"
          class="form-control"
          name="q"
+         id="search-input"
          placeholder="Search this book..."
          aria-label="Search this book..."
          autocomplete="off"
@@ -99,8 +107,8 @@
          autocapitalize="off"
          spellcheck="false"/>
   <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd>K</kbd></span>
-</form>
-  </dialog>
+</form></div>
+  </div>
 
   <div class="pst-async-banner-revealer d-none">
   <aside id="bd-header-version-warning" class="d-none d-print-none" aria-label="Version warning"></aside>
@@ -116,8 +124,7 @@
       
       
       
-      <dialog id="pst-primary-sidebar-modal"></dialog>
-      <div id="pst-primary-sidebar" class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar">
         
 
   
@@ -147,17 +154,21 @@
     
     
     <img src="../_static/logo.png" class="logo__image only-light" alt="ISYA - Home"/>
-    <img src="../_static/logo.png" class="logo__image only-dark pst-js-only" alt="ISYA - Home"/>
+    <script>document.write(`<img src="../_static/logo.png" class="logo__image only-dark" alt="ISYA - Home"/>`);</script>
   
   
 </a></div>
         <div class="sidebar-primary-item">
 
-<button class="btn search-button-field search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
- <i class="fa-solid fa-magnifying-glass"></i>
- <span class="search-button__default-text">Search</span>
- <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
-</button></div>
+ <script>
+ document.write(`
+   <button class="btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="fa-solid fa-magnifying-glass"></i>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script></div>
         <div class="sidebar-primary-item"><nav class="bd-links bd-docs-nav" aria-label="Main">
     <div class="bd-toc-item navbar-nav active">
         
@@ -185,14 +196,9 @@
   
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
-      <div class="sidebar-primary-item">
-<div id="ethical-ad-placement"
-      class="flat"
-      data-ea-publisher="readthedocs"
-      data-ea-type="readthedocs-sidebar"
-      data-ea-manual="true">
-</div></div>
   </div>
+  
+  <div id="rtd-footer-container"></div>
 
 
       </div>
@@ -336,16 +342,24 @@
 
 
 
-<button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button pst-js-only" aria-label="Color mode" data-bs-title="Color mode"  data-bs-placement="bottom" data-bs-toggle="tooltip">
-  <i class="theme-switch fa-solid fa-sun                fa-lg" data-mode="light" title="Light"></i>
-  <i class="theme-switch fa-solid fa-moon               fa-lg" data-mode="dark"  title="Dark"></i>
-  <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"  title="System Settings"></i>
-</button>
+<script>
+document.write(`
+  <button class="btn btn-sm nav-link pst-navbar-icon theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <i class="theme-switch fa-solid fa-sun fa-lg" data-mode="light"></i>
+    <i class="theme-switch fa-solid fa-moon fa-lg" data-mode="dark"></i>
+    <i class="theme-switch fa-solid fa-circle-half-stroke fa-lg" data-mode="auto"></i>
+  </button>
+`);
+</script>
 
 
-<button class="btn btn-sm pst-navbar-icon search-button search-button__button pst-js-only" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+<script>
+document.write(`
+  <button class="btn btn-sm pst-navbar-icon search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass fa-lg"></i>
-</button>
+  </button>
+`);
+</script>
 <button class="sidebar-toggle secondary-toggle btn btn-sm" title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <span class="fa-solid fa-list"></span>
 </button>
@@ -370,8 +384,7 @@
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-1-stellar-astrophysics">Course 1: Stellar Astrophysics</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#alessandro-bressan-5-lectures">Alessandro Bressan, 5 lectures</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#sissa-italy">SISSA, Italy</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#alessandro-bressan-sissa-italy-5-lectures">Alessandro Bressan (SISSA, Italy), 5 lectures</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-stars-and-stellar-populations">Lecture 1) Stars and stellar populations.</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-the-equations-of-stellar-structure">Lecture 2) The equations of stellar structure.</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-from-the-pre-main-sequence-to-the-main-sequence">Lecture 3) From the Pre Main Sequence to the Main Sequence.</a></li>
@@ -382,8 +395,7 @@
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-2-compact-objects">Course 2: Compact Objects</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#jorge-armando-rueda-hernandez-6-lectures">Jorge Armando Rueda Hernández, 6 lectures</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#icra-italy">ICRA, Italy</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#jorge-a-rueda-hernandez-icra-italy-6-lectures">Jorge A. Rueda Hernández (ICRA, Italy), 6 lectures</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#abstract">Abstract:</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lectures-on-physical-aspects-of-compact-objects">Lectures on Physical Aspects of Compact Objects:</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-white-dwarfs-wds-equation-of-state-eos-and-structure">Lecture 1) White dwarfs (WDs): Equation of State (EOS) and Structure</a></li>
@@ -395,8 +407,7 @@
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-3-galaxies">Course 3: Galaxies</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#itziar-aretxaga-5-lectures">Itziar Aretxaga, 5 lectures</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#inaoe-mexico">INAOE, México</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#itziar-aretxaga-inaoe-mexico-5-lectures">Itziar Aretxaga (INAOE, México), 5 lectures</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-introduction-to-the-galaxy-zoo">Lecture 1) Introduction to the galaxy zoo</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-scaling-relations">Lecture 2) Scaling relations</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-active-galactic-nuclei">Lecture 3) Active Galactic Nuclei</a></li>
@@ -408,8 +419,7 @@
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-4-cosmology">Course 4: Cosmology</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#david-fonseca-mota-5-lectures">David Fonseca Mota, 5 lectures</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#university-of-oslo-norway">University of Oslo, Norway</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#david-fonseca-mota-univ-oslo-norway-5-lectures">David Fonseca Mota (Univ. Oslo, Norway), 5 lectures</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-the-observational-context">Lecture 1) The Observational Context</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-the-cosmic-microwave-background-radiation-cmb">Lecture 2) The Cosmic Microwave Background Radiation (CMB)</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-the-theory-of-gravitation-and-inflationary-cosmology">Lecture 3) The Theory of Gravitation and Inflationary Cosmology</a></li>
@@ -420,8 +430,7 @@
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-5-radio-astronomy">Course 5: Radio Astronomy</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#helga-denes-5-lectures-practicals">Helga Dénes, 5 lectures/practicals</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#yachay-tech-university-ecuador">Yachay Tech University, Ecuador</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#helga-denes-yachay-tech-ecuador-5-practicals">Helga Dénes (Yachay Tech, Ecuador), 5 practicals</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-radio-astronomy-fundamentals">Lecture 1) Radio astronomy fundamentals</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-data-processing-from-raw-observations-to-products">Lecture 2)⁠ ⁠Data processing - from raw observations to products</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-radio-sources">Lecture 3)⁠ ⁠Radio sources</a></li>
@@ -433,29 +442,63 @@
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-6-python-for-astrophysics">Course 6: Python for Astrophysics</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#wladimir-banda-barragan-5-practicals">Wladimir Banda-Barragán, 5 practicals</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Yachay Tech University, Ecuador</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#wladimir-banda-barragan-yachay-tech-5-practicals">Wladimir Banda-Barragán (Yachay Tech), 5 practicals</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-python-essentials-for-computational-astrophysics">Lecture 1) Python essentials for computational astrophysics</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-simulation-data-formats-and-visualisation">Lecture 2) Simulation data formats and visualisation</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-analysis-of-3d-meshed-data-of-ism-simulations">Lecture 3) Analysis of 3D meshed data of ISM simulations</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-4-shock-finding-algorithms-and-the-py4shocks-module">Lecture 4) Shock finding algorithms and the py4shocks module</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-5-tutorial-on-using-py4shocks-for-characterising-ism-shocks">Lecture 5) Tutorial on using py4shocks for characterising ISM shocks</a></li>
-<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Bibliography:</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Bibliography:</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-7-optical-observational-astronomy">Course 7: Optical Observational Astronomy</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#karin-menendez-delmestre-6-lectures-practicals">Karín Menéndez-Delmestre, 6 lectures/practicals</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#valongo-observatory-of-the-federal-university-of-rio-de-janeiro-brazil">Valongo Observatory of the Federal University of Rio de Janeiro (Brazil)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#karin-menendez-delmestre-valongo-obs-brazil-6-lectures">Karín Menéndez-Delmestre (Valongo Obs., Brazil), 6 lectures</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-basic-concepts-in-observational-astronomy">Lecture 1) Basic Concepts in Observational Astronomy</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-signal-and-sources-of-noise">Lecture 2) Signal and Sources of Noise</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-observing-strategies-planning-your-observing-night-hands-on">Lecture 3) Observing Strategies &amp; Planning your observing night (Hands-on)</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-4-basics-of-data-reduction">Lecture 4) Basics of Data Reduction</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-5-data-reduction-hands-on">Lecture 5) Data Reduction (Hands-on)</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-6-basic-aperture-photometry-hands-on">Lecture 6: Basic Aperture Photometry (Hands-on)</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-6-basic-aperture-photometry-hands-on">Lecture 6: Basic Aperture Photometry (Hands-on)</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-8-virtual-observatory-and-the-use-of-online-databases">Course 8: Virtual Observatory and the use of online databases</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#thiago-s-goncalves-valongo-obs-brazil-5-lectures">Thiago S. Goncalves (Valongo Obs., Brazil), 5 lectures</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-introduction-to-data-acquisition-and-processing">Lecture 1) Introduction to data acquisition and processing</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-imaging-data-eso-science-portal">Lecture 2) Imaging data — ESO Science Portal</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-spectroscopic-data-sdss-manga-survey">Lecture 3) Spectroscopic data — SDSS MaNGA Survey</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-4-value-added-catalogues-manga-pipe3d">Lecture 4) Value added catalogues — MaNGA Pipe3D</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-5-simulations-and-theoretical-data-illustristng-and-flathub">Lecture 5) Simulations and theoretical data — IllustrisTNG and Flathub</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Bibliography:</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-9-interstellar-medium">Course 9: Interstellar Medium</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#laurence-sabin-unam-mexico-5-lectures">Laurence Sabin (UNAM, México), 5 lectures</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-components-of-the-ism-observations">Lecture 1) Components of the ISM (Observations)</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-interstellar-dust">Lecture 2) Interstellar Dust</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-heating-and-cooling-processes">Lecture 3) Heating and Cooling Processes</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-4-observational-diagnostics">Lecture 4) Observational Diagnostics</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-5-dynamics">Lecture 5) Dynamics</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#requirements-projector-for-classes-basic-bibliography">Requirements : Projector for classes Basic Bibliography :</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-10-machine-learning-for-astronomy">Course 10: Machine Learning for Astronomy</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#juan-rafael-martinez-galarza-astroai-cfa-harvard-smithsonian">Juan Rafael Martínez Galarza (AstroAI, CfA, Harvard &amp; Smithsonian)</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-introduction-to-machine-learning">Lecture 1) Introduction to Machine Learning</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-evaluation-metrics-in-machine-learning">Lecture 2) Evaluation Metrics in Machine Learning</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-unsupervised-machine-learning">Lecture 3) Unsupervised machine learning</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-4-machine-learning-for-time-domain-astrophysics">Lecture 4) Machine learning for time-domain astrophysics</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-5-statistical-inference">Lecture 5) Statistical Inference</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Bibliography</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -473,11 +516,8 @@
 <h1>Courses<a class="headerlink" href="#courses" title="Link to this heading">#</a></h1>
 <section id="course-1-stellar-astrophysics">
 <h2>Course 1: Stellar Astrophysics<a class="headerlink" href="#course-1-stellar-astrophysics" title="Link to this heading">#</a></h2>
-<section id="alessandro-bressan-5-lectures">
-<h3>Alessandro Bressan, 5 lectures<a class="headerlink" href="#alessandro-bressan-5-lectures" title="Link to this heading">#</a></h3>
-</section>
-<section id="sissa-italy">
-<h3>SISSA, Italy<a class="headerlink" href="#sissa-italy" title="Link to this heading">#</a></h3>
+<section id="alessandro-bressan-sissa-italy-5-lectures">
+<h3>Alessandro Bressan (SISSA, Italy), 5 lectures<a class="headerlink" href="#alessandro-bressan-sissa-italy-5-lectures" title="Link to this heading">#</a></h3>
 <section id="lecture-1-stars-and-stellar-populations">
 <h4>Lecture 1) Stars and stellar populations.<a class="headerlink" href="#lecture-1-stars-and-stellar-populations" title="Link to this heading">#</a></h4>
 <ul class="simple">
@@ -531,11 +571,8 @@
 </section>
 <section id="course-2-compact-objects">
 <h2>Course 2: Compact Objects<a class="headerlink" href="#course-2-compact-objects" title="Link to this heading">#</a></h2>
-<section id="jorge-armando-rueda-hernandez-6-lectures">
-<h3>Jorge Armando Rueda Hernández, 6 lectures<a class="headerlink" href="#jorge-armando-rueda-hernandez-6-lectures" title="Link to this heading">#</a></h3>
-</section>
-<section id="icra-italy">
-<h3>ICRA, Italy<a class="headerlink" href="#icra-italy" title="Link to this heading">#</a></h3>
+<section id="jorge-a-rueda-hernandez-icra-italy-6-lectures">
+<h3>Jorge A. Rueda Hernández (ICRA, Italy), 6 lectures<a class="headerlink" href="#jorge-a-rueda-hernandez-icra-italy-6-lectures" title="Link to this heading">#</a></h3>
 <section id="abstract">
 <h4>Abstract:<a class="headerlink" href="#abstract" title="Link to this heading">#</a></h4>
 <p>In the present era of multi-messenger astrophysics, the information on most extreme astrophysical sources arrives from several carriers at different energies/frequencies: photons in the electromagnetic spectrum (from the microwaves to the high-energy gamma-rays ~TeV), massive charged particles (cosmic rays up to ultra-high energies ~millions of PeV), neutrinos (from the MeV to PeV), gravitational waves (in the millihertz region from space-based instruments and the kHz region from ground-based ones). We can also include dark matter particles via their gravitational interaction with astrophysical systems. All this information allows us to understand the most extreme astrophysical sources in the universe with unprecedented accuracy and detail. The explanation of the nature of the most energetic and powerful astrophysical sources (both quiescent and transient), such as binary X-ray sources, pulsars, novae, kilonovae, supernovae, hypernovae, quasars, active galactic nuclei and gamma-ray bursts, involve the presence of compact objects: white dwarfs, neutron stars and black holes in different flavors; e.g. in a variety of masses, rotation rates and present as single systems or in binaries. The increasing quality and amount of data allow us to test our knowledge and put stringent constraints on the nature of the sources and the structure, matter content, and properties of their associated exterior spacetime. The successful and helpful extraction of the above information on compact objects from data requires that we know, with sufficient accuracy, how different physical ingredients change the properties of the objects. I focus here on compact objects’ physical and astrophysical aspects, emphasizing their role in multi-messenger astrophysics. Basic knowledge of atomic physics, nuclear physics, electromagnetism, statistical mechanics, classical field theory, Newtonian gravity, and General Relativity are needed to accomplish this task.</p>
@@ -589,11 +626,8 @@
 </section>
 <section id="course-3-galaxies">
 <h2>Course 3: Galaxies<a class="headerlink" href="#course-3-galaxies" title="Link to this heading">#</a></h2>
-<section id="itziar-aretxaga-5-lectures">
-<h3>Itziar Aretxaga, 5 lectures<a class="headerlink" href="#itziar-aretxaga-5-lectures" title="Link to this heading">#</a></h3>
-</section>
-<section id="inaoe-mexico">
-<h3>INAOE, México<a class="headerlink" href="#inaoe-mexico" title="Link to this heading">#</a></h3>
+<section id="itziar-aretxaga-inaoe-mexico-5-lectures">
+<h3>Itziar Aretxaga (INAOE, México), 5 lectures<a class="headerlink" href="#itziar-aretxaga-inaoe-mexico-5-lectures" title="Link to this heading">#</a></h3>
 <p>An overview of galaxies in the nearby and distant universe, their constituents, scaling laws and evolution through cosmic time.</p>
 <section id="lecture-1-introduction-to-the-galaxy-zoo">
 <h4>Lecture 1) Introduction to the galaxy zoo<a class="headerlink" href="#lecture-1-introduction-to-the-galaxy-zoo" title="Link to this heading">#</a></h4>
@@ -663,11 +697,8 @@
 </section>
 <section id="course-4-cosmology">
 <h2>Course 4: Cosmology<a class="headerlink" href="#course-4-cosmology" title="Link to this heading">#</a></h2>
-<section id="david-fonseca-mota-5-lectures">
-<h3>David Fonseca Mota, 5 lectures<a class="headerlink" href="#david-fonseca-mota-5-lectures" title="Link to this heading">#</a></h3>
-</section>
-<section id="university-of-oslo-norway">
-<h3>University of Oslo, Norway<a class="headerlink" href="#university-of-oslo-norway" title="Link to this heading">#</a></h3>
+<section id="david-fonseca-mota-univ-oslo-norway-5-lectures">
+<h3>David Fonseca Mota (Univ. Oslo, Norway), 5 lectures<a class="headerlink" href="#david-fonseca-mota-univ-oslo-norway-5-lectures" title="Link to this heading">#</a></h3>
 <p>This course explores key aspects of cosmology, including the development of cosmological models, the nature of the universe’s constituents, and its thermal history. It also examines observational evidence, theoretical foundations, and research frontiers in cosmology.</p>
 <section id="lecture-1-the-observational-context">
 <h4>Lecture 1) The Observational Context<a class="headerlink" href="#lecture-1-the-observational-context" title="Link to this heading">#</a></h4>
@@ -727,11 +758,8 @@
 </section>
 <section id="course-5-radio-astronomy">
 <h2>Course 5: Radio Astronomy<a class="headerlink" href="#course-5-radio-astronomy" title="Link to this heading">#</a></h2>
-<section id="helga-denes-5-lectures-practicals">
-<h3>Helga Dénes, 5 lectures/practicals<a class="headerlink" href="#helga-denes-5-lectures-practicals" title="Link to this heading">#</a></h3>
-</section>
-<section id="yachay-tech-university-ecuador">
-<h3>Yachay Tech University, Ecuador<a class="headerlink" href="#yachay-tech-university-ecuador" title="Link to this heading">#</a></h3>
+<section id="helga-denes-yachay-tech-ecuador-5-practicals">
+<h3>Helga Dénes (Yachay Tech, Ecuador), 5 practicals<a class="headerlink" href="#helga-denes-yachay-tech-ecuador-5-practicals" title="Link to this heading">#</a></h3>
 <p>This course will cover the basics of how radio telescopes work, how we process radio data to obtain continuum images and spectral line data cubes, and which sources produce radio emission. In addition, the course will contain practical sessions on how to analyse radio continuum and spectral line data with python tools.</p>
 <section id="lecture-1-radio-astronomy-fundamentals">
 <h4>Lecture 1) Radio astronomy fundamentals<a class="headerlink" href="#lecture-1-radio-astronomy-fundamentals" title="Link to this heading">#</a></h4>
@@ -787,11 +815,8 @@
 </section>
 <section id="course-6-python-for-astrophysics">
 <h2>Course 6: Python for Astrophysics<a class="headerlink" href="#course-6-python-for-astrophysics" title="Link to this heading">#</a></h2>
-<section id="wladimir-banda-barragan-5-practicals">
-<h3>Wladimir Banda-Barragán, 5 practicals<a class="headerlink" href="#wladimir-banda-barragan-5-practicals" title="Link to this heading">#</a></h3>
-</section>
-<section id="id2">
-<h3>Yachay Tech University, Ecuador<a class="headerlink" href="#id2" title="Link to this heading">#</a></h3>
+<section id="wladimir-banda-barragan-yachay-tech-5-practicals">
+<h3>Wladimir Banda-Barragán (Yachay Tech), 5 practicals<a class="headerlink" href="#wladimir-banda-barragan-yachay-tech-5-practicals" title="Link to this heading">#</a></h3>
 <section id="lecture-1-python-essentials-for-computational-astrophysics">
 <h4>Lecture 1) Python essentials for computational astrophysics<a class="headerlink" href="#lecture-1-python-essentials-for-computational-astrophysics" title="Link to this heading">#</a></h4>
 <ul class="simple">
@@ -833,8 +858,8 @@
 <li><p>Research applications of shock finding</p></li>
 </ul>
 </section>
-<section id="id3">
-<h4>Bibliography:<a class="headerlink" href="#id3" title="Link to this heading">#</a></h4>
+<section id="id2">
+<h4>Bibliography:<a class="headerlink" href="#id2" title="Link to this heading">#</a></h4>
 <ul class="simple">
 <li><p>Landau, Rubin, Computational physics : problem solving with python, 2015</p></li>
 <li><p>Kong, Qingkai; Siauw, Timmy; Bayen, Alexandre, Python Programming And Numerical Methods: A Guide For Engineers And Scientists, 2020</p></li>
@@ -844,11 +869,8 @@
 </section>
 <section id="course-7-optical-observational-astronomy">
 <h2>Course 7: Optical Observational Astronomy<a class="headerlink" href="#course-7-optical-observational-astronomy" title="Link to this heading">#</a></h2>
-<section id="karin-menendez-delmestre-6-lectures-practicals">
-<h3>Karín Menéndez-Delmestre, 6 lectures/practicals<a class="headerlink" href="#karin-menendez-delmestre-6-lectures-practicals" title="Link to this heading">#</a></h3>
-</section>
-<section id="valongo-observatory-of-the-federal-university-of-rio-de-janeiro-brazil">
-<h3>Valongo Observatory of the Federal University of Rio de Janeiro (Brazil)<a class="headerlink" href="#valongo-observatory-of-the-federal-university-of-rio-de-janeiro-brazil" title="Link to this heading">#</a></h3>
+<section id="karin-menendez-delmestre-valongo-obs-brazil-6-lectures">
+<h3>Karín Menéndez-Delmestre (Valongo Obs., Brazil), 6 lectures<a class="headerlink" href="#karin-menendez-delmestre-valongo-obs-brazil-6-lectures" title="Link to this heading">#</a></h3>
 <p>In this course we aim to familiarize students with basic concepts related to astronomical instrumentation, observational strategies and the processing of astronomical data. After a brief review of fundamental concepts including celestial coordinate systems, the impact of the Earth’s atmosphere on ground-based observations and the different sources of noise, we will combine lectures and hands-on activities to delve into the following topics: planning astronomical observations, remote observing (pending formal arrangements with ISYA), reduction of imaging data (with brief discussion on how to handle spectroscopic data), signal characterization and basic photometric analysis of astronomical data. These topics will be addressed primarily in the context of optical observations.</p>
 <section id="lecture-1-basic-concepts-in-observational-astronomy">
 <h4>Lecture 1) Basic Concepts in Observational Astronomy<a class="headerlink" href="#lecture-1-basic-concepts-in-observational-astronomy" title="Link to this heading">#</a></h4>
@@ -890,9 +912,226 @@
 <li><p>Using basic IRAF routines or Python</p></li>
 </ul>
 </section>
-</section>
 <section id="lecture-6-basic-aperture-photometry-hands-on">
-<h3>Lecture 6: Basic Aperture Photometry (Hands-on)<a class="headerlink" href="#lecture-6-basic-aperture-photometry-hands-on" title="Link to this heading">#</a></h3>
+<h4>Lecture 6: Basic Aperture Photometry (Hands-on)<a class="headerlink" href="#lecture-6-basic-aperture-photometry-hands-on" title="Link to this heading">#</a></h4>
+</section>
+</section>
+</section>
+<section id="course-8-virtual-observatory-and-the-use-of-online-databases">
+<h2>Course 8: Virtual Observatory and the use of online databases<a class="headerlink" href="#course-8-virtual-observatory-and-the-use-of-online-databases" title="Link to this heading">#</a></h2>
+<section id="thiago-s-goncalves-valongo-obs-brazil-5-lectures">
+<h3>Thiago S. Goncalves (Valongo Obs., Brazil), 5 lectures<a class="headerlink" href="#thiago-s-goncalves-valongo-obs-brazil-5-lectures" title="Link to this heading">#</a></h3>
+<p>This is a hands-on class on the use of publicly available data to perform astronomical research. The course will handle data at different stages from different repositories, ranging from telescope science archives to value added catalogues, finishing with the use of theoretical data from simulations. Each lecture will comprise an individual science goal to be accomplished.</p>
+<section id="lecture-1-introduction-to-data-acquisition-and-processing">
+<h4>Lecture 1) Introduction to data acquisition and processing<a class="headerlink" href="#lecture-1-introduction-to-data-acquisition-and-processing" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Basics of astronomical observations</p></li>
+<li><p>Fundamentals of data reduction: bias, flats, sky subtraction, wavelength calibration</p></li>
+<li><p>From data to physics: the production of value added catalogues</p></li>
+<li><p>Navigating the universe: basic search tools and data exploration</p></li>
+<li><p>Universe in a box: simulated data</p></li>
+</ul>
+</section>
+<section id="lecture-2-imaging-data-eso-science-portal">
+<h4>Lecture 2) Imaging data — ESO Science Portal<a class="headerlink" href="#lecture-2-imaging-data-eso-science-portal" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Navigating the ESO Science Portal</p></li>
+<li><p>Raw data vs Processed data</p></li>
+<li><p>Data access and manipulation</p></li>
+<li><p>Example: Photometry</p></li>
+</ul>
+</section>
+<section id="lecture-3-spectroscopic-data-sdss-manga-survey">
+<h4>Lecture 3) Spectroscopic data — SDSS MaNGA Survey<a class="headerlink" href="#lecture-3-spectroscopic-data-sdss-manga-survey" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Navigating the spectroscopic dataset</p></li>
+<li><p>Example: Measuring spectroscopic indices</p></li>
+</ul>
+</section>
+<section id="lecture-4-value-added-catalogues-manga-pipe3d">
+<h4>Lecture 4) Value added catalogues — MaNGA Pipe3D<a class="headerlink" href="#lecture-4-value-added-catalogues-manga-pipe3d" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Using physical measurements for science — pros and cons</p></li>
+<li><p>Example: Galaxy evolution as seen by MaNGA</p></li>
+</ul>
+</section>
+<section id="lecture-5-simulations-and-theoretical-data-illustristng-and-flathub">
+<h4>Lecture 5) Simulations and theoretical data — IllustrisTNG and Flathub<a class="headerlink" href="#lecture-5-simulations-and-theoretical-data-illustristng-and-flathub" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>How do simulations work?</p></li>
+<li><p>Fundamentals of radiative transfer codes and the production of synthetic observational data</p></li>
+<li><p>Types of theoretical data and comparison with the real universe</p></li>
+</ul>
+</section>
+<section id="id3">
+<h4>Bibliography:<a class="headerlink" href="#id3" title="Link to this heading">#</a></h4>
+<p>Astronomy Methods: A Physical Approach to Astronomical Observations (2003), Hale Bradt, Cambridge University Press.</p>
+</section>
+</section>
+</section>
+<section id="course-9-interstellar-medium">
+<h2>Course 9: Interstellar Medium<a class="headerlink" href="#course-9-interstellar-medium" title="Link to this heading">#</a></h2>
+<section id="laurence-sabin-unam-mexico-5-lectures">
+<h3>Laurence Sabin (UNAM, México), 5 lectures<a class="headerlink" href="#laurence-sabin-unam-mexico-5-lectures" title="Link to this heading">#</a></h3>
+<section id="lecture-1-components-of-the-ism-observations">
+<h4>Lecture 1) Components of the ISM (Observations)<a class="headerlink" href="#lecture-1-components-of-the-ism-observations" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Physical conditions (density, temperature, and pressure) - Hot gas</p></li>
+<li><p>Warm gas (ionized and neutral)</p></li>
+<li><p>Cold gas (atomic and molecular)</p></li>
+<li><p>Dust</p></li>
+<li><p>Magnetic fields and cosmic rays</p></li>
+</ul>
+</section>
+<section id="lecture-2-interstellar-dust">
+<h4>Lecture 2) Interstellar Dust<a class="headerlink" href="#lecture-2-interstellar-dust" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Composition (silicates, graphite, PAHs)</p></li>
+<li><p>Physical properties (sizes, heating, cooling, and charge)</p></li>
+<li><p>Formation and destruction</p></li>
+</ul>
+</section>
+<section id="lecture-3-heating-and-cooling-processes">
+<h4>Lecture 3) Heating and Cooling Processes<a class="headerlink" href="#lecture-3-heating-and-cooling-processes" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Molecular gas</p></li>
+<li><p>Neutral gas (HI)</p></li>
+<li><p>Photodissociation regions - Photoionized regions</p></li>
+<li><p>Hot ionized regions</p></li>
+</ul>
+</section>
+<section id="lecture-4-observational-diagnostics">
+<h4>Lecture 4) Observational Diagnostics<a class="headerlink" href="#lecture-4-observational-diagnostics" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Emission and absorption lines</p></li>
+<li><p>Radio observations of molecular lines</p></li>
+<li><p>21 cm HI line</p></li>
+<li><p>Optical and UV absorption lines in neutral gas</p></li>
+<li><p>Photoionized regions:</p>
+<ul>
+<li><p>Recombination lines and collisional excitation lines</p></li>
+<li><p>Free-free continuum in radio</p></li>
+<li><p>Density and temperature diagnostics (optical and radio)</p></li>
+</ul>
+</li>
+<li><p>Hot gas:</p>
+<ul>
+<li><p>UV</p></li>
+<li><p>X-rays</p></li>
+</ul>
+</li>
+<li><p>Dust:</p>
+<ul>
+<li><p>Extinction</p></li>
+<li><p>Emission</p></li>
+</ul>
+</li>
+<li><p>Masers</p></li>
+<li><p>Chemical composition</p></li>
+<li><p>Kinematics</p></li>
+<li><p>Photoionized regions (HII regions and planetary nebulae)</p>
+<ul>
+<li><p>Strömgren sphere</p></li>
+<li><p>Ionization structure</p></li>
+<li><p>Energy balance</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="lecture-5-dynamics">
+<h4>Lecture 5) Dynamics<a class="headerlink" href="#lecture-5-dynamics" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Shock waves</p></li>
+<li><p>Jets and outflows - Disks</p></li>
+</ul>
+</section>
+<section id="requirements-projector-for-classes-basic-bibliography">
+<h4>Requirements : Projector for classes Basic Bibliography :<a class="headerlink" href="#requirements-projector-for-classes-basic-bibliography" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>George B. Rybicki &amp; Alan P. Lightman. Radiative processes in Astrophysics. John Wiley &amp; Sons, 1985</p></li>
+<li><p>J. E. Dyson &amp; D. A. The Physics of the Interstellar Medium. Williams John Wiley &amp; Sons, 1997.</p></li>
+<li><p>Lyman Spitzer, Jr. Physical Processes in the Interstellar Medium. JohnWiley &amp; Sons, 1998.</p></li>
+<li><p>Donald E. Osterbrock &amp; Gary J. Ferland. Astrophysics of Gaseous Nebulae and Active Galactic Nuclei. University Science Books, 2005.</p></li>
+<li><p>Frank Shu, The Physics of Astrophysics, Vols. 1 y 2. University Science Books, 1991.</p></li>
+<li><p>Bruce T.Draine. Physics of the Interstellar and Intergalactic Medium. Princeton Series in Astrophysics, 2010.</p></li>
+<li><p>Michael A. Dopitay, Ralph S. Sutherland. Astrophysics of the Diffuse Universe. Astronomy and Astrophysics Library, 2003.</p></li>
+<li><p>J. Lequeux. Interstellar Medium. Springer Berlin Heidelberg, 2005.</p></li>
+</ul>
+</section>
+</section>
+</section>
+<section id="course-10-machine-learning-for-astronomy">
+<h2>Course 10: Machine Learning for Astronomy<a class="headerlink" href="#course-10-machine-learning-for-astronomy" title="Link to this heading">#</a></h2>
+<section id="juan-rafael-martinez-galarza-astroai-cfa-harvard-smithsonian">
+<h3>Juan Rafael Martínez Galarza (AstroAI, CfA, Harvard &amp; Smithsonian)<a class="headerlink" href="#juan-rafael-martinez-galarza-astroai-cfa-harvard-smithsonian" title="Link to this heading">#</a></h3>
+<p>This course will provide the students with a starting toolkit for the use of machine
+learning in astronomy, with an emphasis on state-of-the-art approaches of self-supervised
+learning, sequential analysis , and statistical inference. The goal is twofold: provide a general
+overview of traditional tools in machine learning in astronomy (e.g. convolutional neural
+networks for supervised image classification), while at the same time introducing the students to
+the latest developments in the field (e.g. self-supervised learning, transformers, simulation
+based inference). The course will include practical exercises in the form of Jupyter notebooks.</p>
+<section id="lecture-1-introduction-to-machine-learning">
+<h4>Lecture 1) Introduction to Machine Learning<a class="headerlink" href="#lecture-1-introduction-to-machine-learning" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Types of machine learning: supervised, unsupervised, self supervised.</p></li>
+<li><p>Introduction to neural networks: fully connected neural networks.</p></li>
+<li><p>Convolutional neural networks.</p></li>
+<li><p>Supervised learning for classification and regression</p></li>
+<li><p>Lab: Classification of galaxy images with CNNs.</p></li>
+</ul>
+</section>
+<section id="lecture-2-evaluation-metrics-in-machine-learning">
+<h4>Lecture 2) Evaluation Metrics in Machine Learning<a class="headerlink" href="#lecture-2-evaluation-metrics-in-machine-learning" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Validation, cross-validation.</p></li>
+<li><p>Metrics: accuracy, precision, recall</p></li>
+<li><p>The ROC curve.</p></li>
+<li><p>Data pre-processing: imbalanced datasets, missing data</p></li>
+<li><p>Fine-tuning hyperparameters</p></li>
+<li><p>Lab: Evaluating the galaxy image classifier.</p></li>
+</ul>
+</section>
+<section id="lecture-3-unsupervised-machine-learning">
+<h4>Lecture 3) Unsupervised machine learning<a class="headerlink" href="#lecture-3-unsupervised-machine-learning" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Clustering methods.</p></li>
+<li><p>Dimensionality reduction.</p></li>
+<li><p>Principal component analysis.</p></li>
+<li><p>The t-SNE and UMAP methods.</p></li>
+<li><p>The autoencoders as non-linear PCA</p></li>
+<li><p>Lab: Clustering galaxy morphology/anomaly detection</p></li>
+</ul>
+</section>
+<section id="lecture-4-machine-learning-for-time-domain-astrophysics">
+<h4>Lecture 4) Machine learning for time-domain astrophysics<a class="headerlink" href="#lecture-4-machine-learning-for-time-domain-astrophysics" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Introduction to time domain astronomy</p></li>
+<li><p>Recurrent neural networks.</p></li>
+<li><p>Transformers.</p></li>
+<li><p>Self-supervised learning</p></li>
+<li><p>Lab: Light curve forecasting</p></li>
+</ul>
+</section>
+<section id="lecture-5-statistical-inference">
+<h4>Lecture 5) Statistical Inference<a class="headerlink" href="#lecture-5-statistical-inference" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Bayesian analysis of data.</p></li>
+<li><p>Variational inference.</p></li>
+<li><p>MCMC versus variational inference.</p></li>
+<li><p>Approximate Bayesian Computation</p></li>
+<li><p>Normalizing flows.</p></li>
+<li><p>Lab: Simulation Based Inference</p></li>
+</ul>
+</section>
+<section id="id4">
+<h4>Bibliography<a class="headerlink" href="#id4" title="Link to this heading">#</a></h4>
+<ul class="simple">
+<li><p>Machine Learning techniques for Physics and Astronomy, Princeton University Press, Acquaviva, ISBN: 9780691203928</p></li>
+<li><p>Statistics, Data Mining &amp; Machine Learning in Astronomy, Princeton University Press, Ivezić, Connolly, VanderPlas, &amp; Gray, ISBN: 9780691198309</p></li>
+<li><p>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, O’Reilly Media, Géron, ISBN: 978109812</p></li>
+</ul>
+</section>
 </section>
 </section>
 </section>
@@ -952,8 +1191,7 @@
             
             
               
-                <dialog id="pst-secondary-sidebar-modal"></dialog>
-                <div id="pst-secondary-sidebar" class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
 
   <div class="sidebar-secondary-item">
@@ -963,8 +1201,7 @@
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-1-stellar-astrophysics">Course 1: Stellar Astrophysics</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#alessandro-bressan-5-lectures">Alessandro Bressan, 5 lectures</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#sissa-italy">SISSA, Italy</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#alessandro-bressan-sissa-italy-5-lectures">Alessandro Bressan (SISSA, Italy), 5 lectures</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-stars-and-stellar-populations">Lecture 1) Stars and stellar populations.</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-the-equations-of-stellar-structure">Lecture 2) The equations of stellar structure.</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-from-the-pre-main-sequence-to-the-main-sequence">Lecture 3) From the Pre Main Sequence to the Main Sequence.</a></li>
@@ -975,8 +1212,7 @@
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-2-compact-objects">Course 2: Compact Objects</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#jorge-armando-rueda-hernandez-6-lectures">Jorge Armando Rueda Hernández, 6 lectures</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#icra-italy">ICRA, Italy</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#jorge-a-rueda-hernandez-icra-italy-6-lectures">Jorge A. Rueda Hernández (ICRA, Italy), 6 lectures</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#abstract">Abstract:</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lectures-on-physical-aspects-of-compact-objects">Lectures on Physical Aspects of Compact Objects:</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-white-dwarfs-wds-equation-of-state-eos-and-structure">Lecture 1) White dwarfs (WDs): Equation of State (EOS) and Structure</a></li>
@@ -988,8 +1224,7 @@
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-3-galaxies">Course 3: Galaxies</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#itziar-aretxaga-5-lectures">Itziar Aretxaga, 5 lectures</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#inaoe-mexico">INAOE, México</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#itziar-aretxaga-inaoe-mexico-5-lectures">Itziar Aretxaga (INAOE, México), 5 lectures</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-introduction-to-the-galaxy-zoo">Lecture 1) Introduction to the galaxy zoo</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-scaling-relations">Lecture 2) Scaling relations</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-active-galactic-nuclei">Lecture 3) Active Galactic Nuclei</a></li>
@@ -1001,8 +1236,7 @@
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-4-cosmology">Course 4: Cosmology</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#david-fonseca-mota-5-lectures">David Fonseca Mota, 5 lectures</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#university-of-oslo-norway">University of Oslo, Norway</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#david-fonseca-mota-univ-oslo-norway-5-lectures">David Fonseca Mota (Univ. Oslo, Norway), 5 lectures</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-the-observational-context">Lecture 1) The Observational Context</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-the-cosmic-microwave-background-radiation-cmb">Lecture 2) The Cosmic Microwave Background Radiation (CMB)</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-the-theory-of-gravitation-and-inflationary-cosmology">Lecture 3) The Theory of Gravitation and Inflationary Cosmology</a></li>
@@ -1013,8 +1247,7 @@
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-5-radio-astronomy">Course 5: Radio Astronomy</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#helga-denes-5-lectures-practicals">Helga Dénes, 5 lectures/practicals</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#yachay-tech-university-ecuador">Yachay Tech University, Ecuador</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#helga-denes-yachay-tech-ecuador-5-practicals">Helga Dénes (Yachay Tech, Ecuador), 5 practicals</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-radio-astronomy-fundamentals">Lecture 1) Radio astronomy fundamentals</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-data-processing-from-raw-observations-to-products">Lecture 2)⁠ ⁠Data processing - from raw observations to products</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-radio-sources">Lecture 3)⁠ ⁠Radio sources</a></li>
@@ -1026,29 +1259,63 @@
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-6-python-for-astrophysics">Course 6: Python for Astrophysics</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#wladimir-banda-barragan-5-practicals">Wladimir Banda-Barragán, 5 practicals</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Yachay Tech University, Ecuador</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#wladimir-banda-barragan-yachay-tech-5-practicals">Wladimir Banda-Barragán (Yachay Tech), 5 practicals</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-python-essentials-for-computational-astrophysics">Lecture 1) Python essentials for computational astrophysics</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-simulation-data-formats-and-visualisation">Lecture 2) Simulation data formats and visualisation</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-analysis-of-3d-meshed-data-of-ism-simulations">Lecture 3) Analysis of 3D meshed data of ISM simulations</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-4-shock-finding-algorithms-and-the-py4shocks-module">Lecture 4) Shock finding algorithms and the py4shocks module</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-5-tutorial-on-using-py4shocks-for-characterising-ism-shocks">Lecture 5) Tutorial on using py4shocks for characterising ISM shocks</a></li>
-<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Bibliography:</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id2">Bibliography:</a></li>
 </ul>
 </li>
 </ul>
 </li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-7-optical-observational-astronomy">Course 7: Optical Observational Astronomy</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#karin-menendez-delmestre-6-lectures-practicals">Karín Menéndez-Delmestre, 6 lectures/practicals</a></li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#valongo-observatory-of-the-federal-university-of-rio-de-janeiro-brazil">Valongo Observatory of the Federal University of Rio de Janeiro (Brazil)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#karin-menendez-delmestre-valongo-obs-brazil-6-lectures">Karín Menéndez-Delmestre (Valongo Obs., Brazil), 6 lectures</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-basic-concepts-in-observational-astronomy">Lecture 1) Basic Concepts in Observational Astronomy</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-signal-and-sources-of-noise">Lecture 2) Signal and Sources of Noise</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-observing-strategies-planning-your-observing-night-hands-on">Lecture 3) Observing Strategies &amp; Planning your observing night (Hands-on)</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-4-basics-of-data-reduction">Lecture 4) Basics of Data Reduction</a></li>
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-5-data-reduction-hands-on">Lecture 5) Data Reduction (Hands-on)</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-6-basic-aperture-photometry-hands-on">Lecture 6: Basic Aperture Photometry (Hands-on)</a></li>
 </ul>
 </li>
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-6-basic-aperture-photometry-hands-on">Lecture 6: Basic Aperture Photometry (Hands-on)</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-8-virtual-observatory-and-the-use-of-online-databases">Course 8: Virtual Observatory and the use of online databases</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#thiago-s-goncalves-valongo-obs-brazil-5-lectures">Thiago S. Goncalves (Valongo Obs., Brazil), 5 lectures</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-introduction-to-data-acquisition-and-processing">Lecture 1) Introduction to data acquisition and processing</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-imaging-data-eso-science-portal">Lecture 2) Imaging data — ESO Science Portal</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-spectroscopic-data-sdss-manga-survey">Lecture 3) Spectroscopic data — SDSS MaNGA Survey</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-4-value-added-catalogues-manga-pipe3d">Lecture 4) Value added catalogues — MaNGA Pipe3D</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-5-simulations-and-theoretical-data-illustristng-and-flathub">Lecture 5) Simulations and theoretical data — IllustrisTNG and Flathub</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id3">Bibliography:</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-9-interstellar-medium">Course 9: Interstellar Medium</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#laurence-sabin-unam-mexico-5-lectures">Laurence Sabin (UNAM, México), 5 lectures</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-components-of-the-ism-observations">Lecture 1) Components of the ISM (Observations)</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-interstellar-dust">Lecture 2) Interstellar Dust</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-heating-and-cooling-processes">Lecture 3) Heating and Cooling Processes</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-4-observational-diagnostics">Lecture 4) Observational Diagnostics</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-5-dynamics">Lecture 5) Dynamics</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#requirements-projector-for-classes-basic-bibliography">Requirements : Projector for classes Basic Bibliography :</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#course-10-machine-learning-for-astronomy">Course 10: Machine Learning for Astronomy</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#juan-rafael-martinez-galarza-astroai-cfa-harvard-smithsonian">Juan Rafael Martínez Galarza (AstroAI, CfA, Harvard &amp; Smithsonian)</a><ul class="nav section-nav flex-column">
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-1-introduction-to-machine-learning">Lecture 1) Introduction to Machine Learning</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-2-evaluation-metrics-in-machine-learning">Lecture 2) Evaluation Metrics in Machine Learning</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-3-unsupervised-machine-learning">Lecture 3) Unsupervised machine learning</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-4-machine-learning-for-time-domain-astrophysics">Lecture 4) Machine learning for time-domain astrophysics</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#lecture-5-statistical-inference">Lecture 5) Statistical Inference</a></li>
+<li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#id4">Bibliography</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
@@ -1099,8 +1366,8 @@ By Yachay Tech University
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script defer src="../_static/scripts/bootstrap.js?digest=8878045cc6db502f8baf"></script>
-<script defer src="../_static/scripts/pydata-sphinx-theme.js?digest=8878045cc6db502f8baf"></script>
+  <script src="../_static/scripts/bootstrap.js?digest=dfe6caa3a7d634c4db9b"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=dfe6caa3a7d634c4db9b"></script>
 
   <footer class="bd-footer">
   </footer>
