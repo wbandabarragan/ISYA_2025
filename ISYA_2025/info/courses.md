@@ -670,3 +670,23 @@ based inference). The course will include practical exercises in the form of Jup
 - Statistics, Data Mining & Machine Learning in Astronomy, Princeton University Press, Ivezić, Connolly, VanderPlas, & Gray, ISBN: 9780691198309
 
 - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow, O’Reilly Media, Géron, ISBN: 978109812
+
+
+## Course 11: Cultural astronomy
+###  Nicolás Vásquez (Escuela Politécnica Nacional, Ecuador)
+
+#### Lecture 1) Astronomy and society
+
+- The sky in human history
+
+- Astronomy for development
+
+- Are Theories Just Cultural Constructs?
+  
+#### Lecture 2)  Native ontologies in the Andes (J. Vásquez, Universidad San Francisco de Quito, Ecuador)
+
+- Ontologies
+  
+- Solar dancers
+  
+- Should Asteroids Be Considered Heritage?
