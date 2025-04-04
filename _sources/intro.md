@@ -101,7 +101,7 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
  
 * Benjamín de Zayas - Yachay Tech University
   
-* Lofti Boubekeur - Escuela Politécnica Nacional
+* Álvaro Dueñas - Escuela Politécnica Nacional
  
 * Lenin Jácome - Yachay Tech University
   
