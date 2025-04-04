@@ -12,7 +12,7 @@
 
 - Radio Astronomy, Helga Dénes (Yachay Tech U., Ecuador)
 
-- Python for Astrophysics, Wladimir Banga-Barragán (Yachay Tech U., Ecuador)
+- Python for Astrophysics, Wladimir Banda-Barragán (Yachay Tech U., Ecuador)
 
 - Optical Observational Astronomy, Karín Menénde-Delmestre (Obs. Valongo, Brazil)
   
