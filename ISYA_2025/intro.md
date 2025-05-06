@@ -91,6 +91,8 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 * Wladimir Banda-Barragán - Yachay Tech University
 
+* Julio Chacón - Yachay Tech University
+
 * Helga Dénes - Yachay Tech University
   
 * Clara Rojas - Yachay Tech University
