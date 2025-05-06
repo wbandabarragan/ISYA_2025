@@ -89,9 +89,9 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 ### Local Organising Committee
 
-* Wladimir Banda-Barragán - Yachay Tech University
-
 * Julio Chacón - Yachay Tech University
+
+* Wladimir Banda-Barragán - Yachay Tech University
 
 * Helga Dénes - Yachay Tech University
   
