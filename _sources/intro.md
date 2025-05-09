@@ -118,6 +118,7 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 ![ISYA](https://github.com/user-attachments/assets/6a8ccefb-1398-49bd-8716-127884148821)
 
+![LOC](https://github.com/user-attachments/assets/97388750-51ef-473d-80bb-2c3d4ea05e25)
 
 
 ```{tableofcontents}
