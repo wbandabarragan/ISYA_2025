@@ -721,9 +721,9 @@ based inference). The course will include practical exercises in the form of Jup
 ### Topic 4: Compact Objects and Stellar Models (David Andrade, Yachay Tech)
 2 groups will work on:
 
-- **Project 7:** TBD
+- **Project 7:** Interior solutions by gravitational decoupling
 
-- **Project 8:** TBD
+- **Project 8:** Interior solutions of compact stars
 
 ### Topic 5: TBD (Fernando Buitrago, University of Valladolid)
 2 groups will work on:
