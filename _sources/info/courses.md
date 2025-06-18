@@ -63,66 +63,68 @@
 
 
 ## Course 2: Compact Objects
-### Jorge A. Rueda Hernández (ICRA, Italy), 6 lectures
+###  Ignacio Francisco Ranea Sandoval (Universidad Naciona de La Plata - Argentina), 5 lectures
 
 #### Abstract: 
-In the present era of multi-messenger astrophysics, the information on most extreme astrophysical sources arrives from several carriers at different energies/frequencies: photons in the electromagnetic spectrum (from the microwaves to the high-energy gamma-rays ~TeV), massive charged particles (cosmic rays up to ultra-high energies ~millions of PeV), neutrinos (from the MeV to PeV), gravitational waves (in the millihertz region from space-based instruments and the kHz region from ground-based ones). We can also include dark matter particles via their gravitational interaction with astrophysical systems. All this information allows us to understand the most extreme astrophysical sources in the universe with unprecedented accuracy and detail. The explanation of the nature of the most energetic and powerful astrophysical sources (both quiescent and transient), such as binary X-ray sources, pulsars, novae, kilonovae, supernovae, hypernovae, quasars, active galactic nuclei and gamma-ray bursts, involve the presence of compact objects: white dwarfs, neutron stars and black holes in different flavors; e.g. in a variety of masses, rotation rates and present as single systems or in binaries. The increasing quality and amount of data allow us to test our knowledge and put stringent constraints on the nature of the sources and the structure, matter content, and properties of their associated exterior spacetime. The successful and helpful extraction of the above information on compact objects from data requires that we know, with sufficient accuracy, how different physical ingredients change the properties of the objects. I focus here on compact objects' physical and astrophysical aspects, emphasizing their role in multi-messenger astrophysics. Basic knowledge of atomic physics, nuclear physics, electromagnetism, statistical mechanics, classical field theory, Newtonian gravity, and General Relativity are needed to accomplish this task.
+Compact objects are the end stage of the evolution of high-mass stars. Their extreme nature makes them excellent to test both general relativity and nuclear physics. The last few decades and particularly the last five have been a revolution for this area and we have been able to obtain increasing quality and amount of astronomical data. This information allows us to put stringent constraints on the nature of the sources and in this way understand more in detail the matter content and properties. This can be performed mainly due to the adveniment of multi-messenger astrophysics including gravitational waves. During these lectures we will learn about observational and theoretical properties of both neutron stars and black holes. We will put special attention into the behavior of matter inside neutron stars and particularly study the possibility of a hadron-quark phase transition taking place in the most internal part of such compact stars. Moreover, we will study the quasinormal modes of these objects as non-radial oscillations could lead to gravitational-wave emission from isolated compact objects. We will introduce the concept of universal relationships associated with these modes and their astrophysical applications.
 
-#### Lectures on Physical Aspects of Compact Objects:
+#### Lecture 1) Neutron stars (1)
 
-#### Lecture 1) White dwarfs (WDs): Equation of State (EOS) and Structure
+- Observational and some theoretical basics
 
-- EOS at high densities and temperatures: basic concepts, zero-temperature, finite temperatures, and electromagnetic effects
+- Mass and radii determination techniques
 
-- Equations of equilibrium: Newtonian gravity and General Relativity
+- GW170817 event and the start of multimessenger astronomy with gravitational waves
 
-- WD structure: equilibrium configurations (mass-density and mass-radius relation)
+- The importance of knowing mass and radius of neutron stars
 
-- Gravitational collapse: the concept of critical mass
 
-- Rotating equilibrium configurations
+#### Lecture 2) Neutron stars (2)
 
-- Observational constraints on the WD mass-radius relation
+- Equilibrium configurations: the need of General Relativity (TOV equations)
 
-#### Lecture 2) Neutron stars (NSs): EOS and Structure
+- The equation of state for dense matter (basics aspects and general theorems)
 
-- The Oppenheimer and Volkoff model
+- Dimensionless tidal deformability and mergers
 
-- NS structure:  equilibrium configurations (mass-density and mass-radius relation)
 
-- Strong interactions and modern models of an NS
+#### Lecture 3) Neutron stars (3)
 
-- NS critical mass
+- The equation of state for dense matter (Standard Model, QCD phase diagram)
 
-- Rotating equilibrium configurations
+- Hadronic matter phenomenological models
 
-- Observational constraints on the NS mass-radius relation
+- Quark matter phenomenological models
 
-#### Lecture 3) Black holes
+- Hadron-quark phase transition? Hybrid stars
+  
 
-- Classic black hole solutions
-
-- Particle motion around black holes
-
-- The black hole mass-energy formula
-
-- The relevance of black hole electrodynamics
+#### Lecture 4) Neutron stars (4)
 
 #### Lectures on Astrophysical Aspects of Compact objects
 
-- Electromagnetic radiation: pulsar mechanism, unipolar inductor
+- Radial perturbations and stability (linearized perturbations of a TOV solution; mathematical framework; stability criteria; slow stable hybrid stars)
 
-- Accretion disks (including neutrino-cooling)
+- Non-radial oscillations of both NSs and HSs (mathematical framework)
 
-- Gravitational waves: deformed rotating stars and binaries
+- Quasi-normal modes (different families; properties; relevance to gravitational wave astronomy)
 
-- Compact objects and dark matter
-
-- Binary mergers: NS-NS, NS-WD, WD-WD and NS-BH mergers
-
-- Gamma-ray bursts: observations, theory, the association with supernovae, and the role of compact objects
+- Universal Relationships and Astroseismology
 
 
+#### Lecture 5) Black holes
+
+- Theoretical basics: what is a black hole? Spacetime diagrams and the idea of the event horizon
+  
+- Different black hole solutions
+  
+- Stranger things: naked singularities
+  
+- Observational generalities
+  
+- Gravitational collapse and black hole formation
+  
+- Geodesics around a black hole: basic aspects of accretion disks
 
 ## Course 3: Galaxies
 ### Itziar Aretxaga (INAOE, México), 5 lectures
@@ -327,9 +329,10 @@ This course will cover the basics of how radio telescopes work, how we process r
 - James J. Condon, Scott M. Ransom: Essential Radio Astronomy https://science.nrao.edu/opportunities/courses/era 
 
 - Thomas L. Wilson , Kristen Rohlfs , Susanne Hüttemeister: Tools of Radio Astronomy
-  
+
+
 ## Course 6: Python for Astrophysics
-### Wladimir Banda-Barragán (Yachay Tech), 5 practicals
+### Part A: Wladimir Banda-Barragán (Yachay Tech), 3 practicals
 
 #### Lecture 1) Python essentials for computational astrophysics
 
@@ -343,34 +346,25 @@ This course will cover the basics of how radio telescopes work, how we process r
 
 - Multi-dimensional data analysis
   
-
 #### Lecture 2) Simulation data formats and visualisation
-
-- Astrophysical gas simulations
-  
-- VTK and HDF5 data formats
-  
-- 2D and 3D visualisation
-  
-#### Lecture 3) Analysis of 3D meshed data of ISM simulations
 
 - Interstellar medium simulations
   
 - 3D simulation data analysis 
   
 - Loops and animations
+  
+- Astrophysical gas simulations
+  
+- 2D and 3D visualisation
 
-#### Lecture 4) Shock finding algorithms and the py4shocks module
+#### Lecture 3) Shock finding algorithms and the py4shocks module
 
 - Hydrodynamic shock theory
   
-- Magnetohydrodynamic shock theory
-  
 - Velocity-jump methods for shock finding
 
-#### Lecture 5) Tutorial on using py4shocks for characterising ISM shocks
-
-- Python modules to find and characterise shock waves
+- py4shocks module to find and characterise shock waves
   
 - Research applications of shock finding
 
@@ -379,6 +373,15 @@ This course will cover the basics of how radio telescopes work, how we process r
 - Landau, Rubin, Computational physics : problem solving with python, 2015
   
 - Kong, Qingkai; Siauw, Timmy; Bayen, Alexandre, Python Programming And Numerical Methods: A Guide For Engineers And Scientists, 2020
+
+
+### Part B: Fernando Buitrago (University of Valladolid), 2 practicals
+
+#### Lecture 4) TBD
+
+
+#### Lecture 5) TBD
+
 
 
 ## Course 7: Optical Observational Astronomy
