@@ -40,10 +40,10 @@
 
 ## Week 3: 21 - 26 July
 
-| Time       | Monday              | Tuesday                      | Wednesday                   | Thursday                          | Friday                          | Saturday                  | Sunday                          |
-|------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| Time       | Monday              | Tuesday                      | Wednesday                   | Thursday                          | Friday                          | Saturday                  | 
+|------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|---------------------------------|
 | 07:30–08:30 | Breakfast | Breakfast         | Breakfast    | Breakfast    | Breakfast          | Breakfast |
-| 08:30–10:00 | School Openning  | Galaxies       | Stellar Astrophysics   | Stellar Astrophysics  | Career Development: Interests            | | |
+| 08:30–10:00 | School Openning  | Galaxies       | Stellar Astrophysics   | Stellar Astrophysics  | Career Development: Interests            | | 
 | 10:00–11:30 | Interstellar Medium | Radio Astronomy  | Compact Objects     | Compact Objects     | Compact Objects|| |
 | 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     || |
 | 12:00–13:30 | Galaxies   |  Python for Astro  | Galaxies |Interstellar Medium   | Radio Astronomy     || |
