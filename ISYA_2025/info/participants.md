@@ -1,11 +1,17 @@
 # Participants
 
 Ángel David Salazar Guamán
+
 Bryan Joel Pinargote Morrillo
+
 Casmira Kristen Kong
+
 Casmira Kristen Kong
+
 Casmira Kristen Kong
+
 Daniel Alexander Villarruel Yánez
+
 Daniel Sebastián Arias Toctaguano
 Diana Carolina Zapata Zuluaga
 Doménica Solange Quizhpe Romero
