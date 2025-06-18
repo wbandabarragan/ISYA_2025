@@ -1,8 +1,7 @@
 # Participants
 
-Ángel David Salazar Guamán
-
-Bryan Joel Pinargote Morrillo
+1. Ángel David Salazar Guamán
+2. Bryan Joel Pinargote Morrillo
 
 Casmira Kristen Kong
 
@@ -32,11 +31,14 @@ José David Salles Lozano
 
 Juan Daniel Vasconez Vela
 
-Karina Denisse Benavides Mayorga \n
+Karina Denisse Benavides Mayorga
+
 Kenneth Armando Mindiola Mendoza 
+
 Linsy Abigail Martinez Rubio 
 Lobsang Derek Méndez Ojeda
 Lizbeth Alexandra Lara Perugachi
+
 Lobsang Derek Méndez Ojeda
 María José Aguirre Montoya
 Mariannly Estefany Marquez Urdaneta
