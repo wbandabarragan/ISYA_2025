@@ -1,4 +1,4 @@
-# Lecturers
+# Lecturers and Tutors
 
 - Stellar Astrophysics, Alessandro Bressan (SISSA, Italy)
 
@@ -23,3 +23,5 @@
 - Machine Learning, Juan Rafael Martínez Galarza (CfA, Harvard, USA)
 
 - Cultural Astronomy, Nicolás Vásquez (EPN, Ecuador)
+
+- Cosmology, Clara Rojas (Yachay Tech U., Ecuador)
