@@ -54,7 +54,7 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 - Stellar Astrophysics, Alessandro Bressan (SISSA, Italy)
 
-- Compact Objects, Jorge Rueda (ICRA, Italy)
+- Compact Objects, Ignacio Ranea Sandoval	(Universidad Nacional de La Plata, Argentina)
   
 - Interstellar Medium, Laurence Sabin (IA-UNAM, Mexico)
   
@@ -64,9 +64,11 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 - Radio Astronomy, Helga Dénes (Yachay Tech U., Ecuador)
 
-- Python for Astrophysics, Wladimir Banga-Barragán (Yachay Tech U., Ecuador)
+- Python for Astrophysics I, Wladimir Banda-Barragán (Yachay Tech U., Ecuador)
 
-- Optical Observational Astronomy, Karín Menéndez-Delmestre (Obs. Valongo, Brazil)
+- Python for Astrophysics II, Fernando Buitrago, University of Valladolid (Spain)
+
+- Optical Observational Astronomy, Karín Menénde-Delmestre (Obs. Valongo, Brazil)
   
 - Virtual Observatory, Thiago Signori (Obs. Valongo, Brazil)
 
@@ -89,13 +91,13 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 ### Local Organising Committee
 
-* Julio Chacón - Yachay Tech University
-
 * Wladimir Banda-Barragán - Yachay Tech University
 
 * Helga Dénes - Yachay Tech University
   
 * Clara Rojas - Yachay Tech University
+
+* Julio Chacón - Yachay Tech University
 
 * José Manuel Ramírez - Yachay Tech University
   
