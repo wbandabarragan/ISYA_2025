@@ -76,6 +76,8 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 - Cultural Astronomy, Nicolás Vásquez (EPN, Ecuador)
 
+- Cosmology, Clara Rojas - Yachay Tech University
+
 
 ## Organising Committee
  
