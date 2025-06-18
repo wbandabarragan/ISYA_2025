@@ -1,11 +1,20 @@
 # Scientific Programme
 
-## 📅 Week 1: Introduction & Observational Techniques
+## Week 1: 7 - 13 July
 
-| Time       | Monday              | Tuesday                      | Wednesday                   | Thursday                          | Friday                          |
-|------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|
-| 09:00–10:30 | Orientation & Welcome | Lecture: Telescopes          | Lecture: Solar System       | Field Trip: Local Observatory     | Review Session & Q&A            |
-| 11:00–12:30 | Lecture: History of Astronomy | Workshop: Optics        | Lab: Planet Motion Sim       | Field Trip (continued)            | Guest Talk: Careers in Astronomy|
-| 14:00–16:00 | Lab: Celestial Sphere  | Telescope Assembly & Setup | Software: Stellarium Basics | Free Study / Reading              | Group Project Brainstorming     |
+| Time       | Monday              | Tuesday                      | Wednesday                   | Thursday                          | Friday                          | Saturday                  | Sunday                          |
+|------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| 08:30–10:00 | Orientation & Welcome | Lecture: Telescopes          | Lecture: Solar System       | Field Trip: Local Observatory     | Review Session & Q&A            |
+| 10:00–11:30 | Lecture: History of Astronomy | Workshop: Optics        | Lab: Planet Motion Sim       | Field Trip (continued)            | Guest Talk: Careers in Astronomy|
+| 11:30–12:00 | Lab: Celestial Sphere  | Telescope Assembly & Setup | Software: Stellarium Basics | Free Study / Reading              | Group Project Brainstorming     |
+| 11:30–12:00 | Lab: Celestial Sphere  | Telescope Assembly & Setup | Software: Stellarium Basics | Free Study / Reading              | Group Project Brainstorming     |
+| 12:00–13:30 | Lab: Celestial Sphere  | Telescope Assembly & Setup | Software: Stellarium Basics | Free Study / Reading              | Group Project Brainstorming     |
+| 13:30–15:00 | Lab: Celestial Sphere  | Telescope Assembly & Setup | Software: Stellarium Basics | Free Study / Reading              | Group Project Brainstorming     |
+| 15:00–16:30 | Lab: Celestial Sphere  | Telescope Assembly & Setup | Software: Stellarium Basics | Free Study / Reading              | Group Project Brainstorming     |
+| 16:30–17:00 | Lab: Celestial Sphere  | Telescope Assembly & Setup | Software: Stellarium Basics | Free Study / Reading              | Group Project Brainstorming     |
+| 17:00–18:30 | Lab: Celestial Sphere  | Telescope Assembly & Setup | Software: Stellarium Basics | Free Study / Reading              | Group Project Brainstorming     |
+| 18:30–19:30 | Dinner            |
+| 19:30–21:00 | Lab: Celestial Sphere  | Telescope Assembly & Setup | Software: Stellarium Basics | Free Study / Reading              | Group Project Brainstorming     |
+| 21:00– | Lab: Group Projects  | Group Projects | Group Projects | Group Projects            | Group Projects     |
 
 ---
