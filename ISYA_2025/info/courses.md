@@ -695,7 +695,7 @@ based inference). The course will include practical exercises in the form of Jup
 - Should Asteroids Be Considered Heritage?
 
 
-# Tutors and student projects
+# Student projects
 
 ### Topic 1: Cosmology (Clara Rojas, Yachay Tech)
 2 groups will work on:
