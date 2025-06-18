@@ -7,7 +7,7 @@ Preliminary Programme
 | Time       | Monday              | Tuesday                      | Wednesday                   | Thursday                          | Friday                          | Saturday                  | Sunday                          |
 |------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | 07:30–08:30 | Breakfast | Breakfast         | Breakfast    | Breakfast    | Breakfast          | Breakfast |Breakfast |
-| 08:30–10:00 | School Openning  | Galaxies       | Stellar Astrophysics   | Stellar Astrophysics  | Career Development: Interests            | | |
+| 08:30–10:00 | School Openning  | Galaxies       | Stellar Astrophysics   | Stellar Astrophysics  | Career Development: Interests            | | FREE TIME|
 | 10:00–11:30 | Interstellar Medium | Radio Astronomy  | Compact Objects     | Compact Objects     | Compact Objects|| |
 | 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     || |
 | 12:00–13:30 | Galaxies   |  Python for Astro  | Galaxies |Interstellar Medium   | Radio Astronomy     || |
@@ -26,7 +26,7 @@ Preliminary Programme
 | Time       | Monday              | Tuesday                      | Wednesday                   | Thursday                          | Friday                          | Saturday                  | Sunday                          |
 |------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|---------------------------------|---------------------------------|
 | 07:30–08:30 | Breakfast | Breakfast         | Breakfast    | Breakfast    | Breakfast          | Breakfast |Breakfast |
-| 08:30–10:00 | Stellar Astrophysics  | Compact Objects       | Cosmology  | Interstellar Medium  | Cosmology   | | |
+| 08:30–10:00 | Stellar Astrophysics  | Compact Objects       | Cosmology  | Interstellar Medium  | Cosmology   | | FREE TIME|
 | 10:00–11:30 | Compact Objects  | Machine Learning | Stellar Astrophysics    | Machine Learning    | Machine Learning || |
 | 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     || |
 | 12:00–13:30 | Machine Learning   |  Interstellar Medium | Machine Learning |Observational Astronomy   | Observational Astronomy     || |
