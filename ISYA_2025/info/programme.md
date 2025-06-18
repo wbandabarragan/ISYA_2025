@@ -51,10 +51,10 @@ Preliminary Programme
 | 12:00–13:30 | Virtual Observatory   |  Galaxies  | Python for Astro | Virtual Observatory   | Career Development: Ethics    || |
 | 13:30–15:00 | Lunch | Lunch | Lunch| Lunch  | Lunch  |
 | 15:00–16:30 | Virtual Observatory  | Virtual Observatory  | Virtual Observatory   |  Python for Astro |School Closure  || |
-| 16:30–17:00 | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break              | FREE TIME    || |
-| 17:00–18:30 | Career Development: Jobs  | Cultural Astronomy | Python for Astro | Observations  | FREE TIME    || |
-| 18:30–19:30 | Group Projects  | Group Projects | Group Projects | Observations  | FREE TIME    || |
+| 16:30–17:00 | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break              |    |
+| 17:00–18:30 | Career Development: Jobs  | Cultural Astronomy | Python for Astro | Observations  |    |
+| 18:30–19:30 | Group Projects  | Group Projects | Group Projects | Observations  |    || |
 | 19:30–21:30 | Dinner    | Dinner    | Dinner    | Dinner    | Dinner    |
-| 21:00– | Group Projects  | Group Projects | Group Projects | Observations | FREE TIME    |
+| 21:00– | Group Projects  | Group Projects | Group Projects | Observations |    |
 
 ---
