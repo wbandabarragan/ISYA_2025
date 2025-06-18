@@ -697,37 +697,37 @@ based inference). The course will include practical exercises in the form of Jup
 
 # Tutors and student projects
 
-### Project 1: Cosmology (Clara Rojas, Yachay Tech)
+### Topic 1: Cosmology (Clara Rojas, Yachay Tech)
 2 groups will work on:
 
-- Study of the scalar power spectrum for the Hilltop inflationary model using the uniform approximation method
+- **Project 1:** Study of the scalar power spectrum for the Hilltop inflationary model using the uniform approximation method
 
-- Inflationary cosmology models
+- **Project 2:** Inflationary cosmology models
   
-### Project 2: Radio astronomy (Helga Dénes, Yachay Tech)
+### Topic 2: Radio astronomy (Helga Dénes, Yachay Tech)
 2 groups will work on:
 
-- Gaussian decomposition of spectral line data cubes
+- **Project 3:** Gaussian decomposition of spectral line data cubes
 
-- Analysing galaxy kinematics with radio data
+- **Project 4:** Analysing galaxy kinematics with radio data
 
-### Project 3: Interstellar and circumgalactic medium (Wladimir Banda-Barragán, Yachay Tech)
+### Topic 3: Interstellar and circumgalactic medium (Wladimir Banda-Barragán, Yachay Tech)
 2 groups will work on:
 
-- Characterising shock waves in ISM collisions
+- **Project 5:** Characterising shock waves in ISM collisions
 
-- Synthetic spectra from galactic wind simulations
+- **Project 6:** Synthetic spectra from galactic wind simulations
 
-### Project 4: Compact Objects and Stellar Models (David Andrade, Yachay Tech)
+### Topic 4: Compact Objects and Stellar Models (David Andrade, Yachay Tech)
 2 groups will work on:
 
-- TBD
+- **Project 7:** TBD
 
-- TBD
+- **Project 8:** TBD
 
-### Project 5: TBD (Fernando Buitrago, University of Valladolid)
+### Topic 5: TBD (Fernando Buitrago, University of Valladolid)
 2 groups will work on:
 
-- TBD
+- **Project 9:** TBD
 
-- TBD
+- **Project 10:** TBD
