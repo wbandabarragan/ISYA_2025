@@ -28,9 +28,11 @@ Franklin Ronaldo Limaico Ibadango
 
 Hanna Gabrielle Pereira Lima
 
-José David Salles Lozano \\
-Juan Daniel Vasconez Vela \\
-Karina Denisse Benavides Mayorga
+José David Salles Lozano
+
+Juan Daniel Vasconez Vela
+
+Karina Denisse Benavides Mayorga \n
 Kenneth Armando Mindiola Mendoza 
 Linsy Abigail Martinez Rubio 
 Lobsang Derek Méndez Ojeda
