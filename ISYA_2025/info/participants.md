@@ -13,15 +13,23 @@ Casmira Kristen Kong
 Daniel Alexander Villarruel Yánez
 
 Daniel Sebastián Arias Toctaguano
+
 Diana Carolina Zapata Zuluaga
+
 Doménica Solange Quizhpe Romero
+
 Eduardo Emmanuel Lasluisa Paz
+
 Elvyn Daniel Ojeda Guaicha
+
 Esteban Fernando Cardenas Andino
+
 Franklin Ronaldo Limaico Ibadango
+
 Hanna Gabrielle Pereira Lima
-José David Salles Lozano
-Juan Daniel Vasconez Vela
+
+José David Salles Lozano \\
+Juan Daniel Vasconez Vela \\
 Karina Denisse Benavides Mayorga
 Kenneth Armando Mindiola Mendoza 
 Linsy Abigail Martinez Rubio 
