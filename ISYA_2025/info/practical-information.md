@@ -102,7 +102,7 @@ Quito has many popular attractions that are worth visiting. This is a short list
 
 - The historic centre of Quito (UNESCO World heritage site): many historic buildings, museums and churches
 - El Panecillo: a popular lookout with excellent views of the city
-- La Mariscal: a popular district with restaurants and cafés
+- La Carolina park, there are many restaurants and cafés near this park
 - Basilica
 - The museum of the city of Quito
 - Parque Arqueológico Rumipamba
