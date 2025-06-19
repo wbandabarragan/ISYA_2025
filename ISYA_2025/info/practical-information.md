@@ -69,11 +69,19 @@ The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarr
 - Quito is a big city and caution must be exercised at all times. In addition, we strongly recommend to not walk in the city at night. If you wish to go out for dinner in Quito we recommend to take a taxi or uber.
 - **The general emergency phone number in Ecudor is: 911.** 
 
-## History of Yachay Tech campus
+## History of the Yachay Tech campus
+
+Read more about the Yachay Tech campus: 
+
+https://yachaytech.edu.ec/en/conoce-el-campus/
+
+Read more about the Archeological Museum:
+
+https://yachaytech.edu.ec/en/museo-arqueologico-yachay-tech/
 
 Read more on the history of Yachay Tech campus:
 
-https://www.yachaytech.edu.ec/en/about/history-of-the-campus/
+https://yachaytech.edu.ec/en/acerca-de/
 
 ## Popular attractions near Yachay Tech
 - Yachay Botanical Garden and Archeological Musem in Urcuquí
