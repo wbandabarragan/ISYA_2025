@@ -2,15 +2,25 @@
 
 ## Host institution
 
-Yachay Tech is relatively new (11-year old) research-oriented university in Ecuador. Its campus is located in the northen region of Ecuador up in the Andes mountains (at an altitude of ~2100 meters above the sea level). This year, Yachay Tech will host the 46th edition of the ISYA school series. If you want to know more about the host institution, please clic on the link below:
+Yachay Tech is relatively new (founded in 2014) research-oriented university in Ecuador. Its campus is located in the northen region of Ecuador up in the Andes mountains (at an altitude of ~2100 meters above the sea level). This year, Yachay Tech will host the 46th edition of the ISYA school series. If you want to know more about the host institution, please clic on the link below:
 
-https://www.yachaytech.edu.ec/en/physicsandnanotech/
+https://yachaytech.edu.ec/
+
+More information on the School of Physical Sciences and Nanotechnology at Yachay Tech:
+
+https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia/
 
 ## How to get to Yachay Tech?
 
 The campus of Yachay Tech is located in the Urcuquí canton in the Imbabura province.
 
 See location: https://goo.gl/maps/XbB5P739rvPBCJCv7
+
+- There is going to be a bus from Quito to the Yachay Tech Campus on Sunday (6th of July) at 3pm. 
+- The meeting point for the bus is: Calle Alfredo Mena Camaño e  Isabel la Católica, Quito (Google map pin: https://maps.app.goo.gl/uxHGVCK4fV6Fhs9dA ). The meeting point is in front of the Universidad Politécnica Salesiana. 
+- The bus ride from Quito to the Yachay Tech campus takes approximately 3 hours.
+
+## Alternative travel options
 
 The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarra terminal will work. Busses go from Ibarra terminal to Urcuquí. From Urcuquí there are buses or pickup trucks that go from the Cemetary to the University. The trip from Ibarra to the University takes about 1 hour. Some detailed examples are below with estimated costs.
 
@@ -29,8 +39,6 @@ The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarr
 -  Urcuquí pick-up trucks which arrive and depart every 15 minutes and the cost is 0.35 USD
 
 <img width="759" alt="image (2)" src="https://github.com/ciencialatitud0/EPIC_3/assets/37318512/96c2943f-b270-4b27-84b9-2ee37295c9f7">
-
-
 
 
 ### From Quito (Carcelén Bus Station)
@@ -52,21 +60,35 @@ The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarr
 - Then, take another bus to go down to campus (the Urcuquí-Yachay bus costs 0.40 USD).
 
 #### Via taxi from Quito to Urcuquí
-- Quito - Ibarra (15 USD)
+- Quito - Ibarra (20 - 70 USD)
 - Ibarra - Urcuquí (10 USD to 12 USD)
 
 ### From Urcuquí to Ibarra
 - The last bus from Urcuquí leaves at 18h30.
 
+## Safety in Ecuador
 
-## History of Yachay Tech campus
+- The Yachay Tech campus has 24 hours security service and is safe at all times. 
+- Urcuquí is a small village and is generally safe. 
+- Quito is a big city and caution must be exercised at all times. In addition, we strongly recommend to not walk in the city at night. If you wish to go out for dinner in Quito we recommend to take a taxi or uber.
+- **The general emergency phone number in Ecudor is: 911.** 
 
-Read more on the history of Yachay Tech campus:
+## History of the Yachay Tech campus
 
-https://www.yachaytech.edu.ec/en/about/history-of-the-campus/
+Read more about the **Yachay Tech campus**: 
+
+https://yachaytech.edu.ec/en/conoce-el-campus/
+
+Read more about the **Archeological Museum**:
+
+https://yachaytech.edu.ec/en/museo-arqueologico-yachay-tech/
+
+Read more on the **history** of Yachay Tech campus:
+
+https://yachaytech.edu.ec/en/acerca-de/
 
 ## Popular attractions near Yachay Tech
-- Yachay Botanical Garden in Urcuquí
+- Yachay Botanical Garden and Archeological Musem in Urcuquí
 - Yahuarcocha lake in Ibarra (busses go 15 minutes from Ibarra 0.35 USD)
 - Mirador San Miguel Arcangel in Ibarra
 - Museo del Cuartel in the centre of Ibarra
