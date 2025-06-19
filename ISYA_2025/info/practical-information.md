@@ -12,6 +12,12 @@ The campus of Yachay Tech is located in the Urcuquí canton in the Imbabura prov
 
 See location: https://goo.gl/maps/XbB5P739rvPBCJCv7
 
+- Ther is going to be a bus from Quito to the Yachay Tech Campus on Sunday (6th of July) at 3pm. 
+- The meeting point for the bus is: Calle Alfredo Mena Camaño e  Isabel la Católica, Quito (Google map pin: https://maps.app.goo.gl/uxHGVCK4fV6Fhs9dA ). The meeting point is in front of the Universidad Politécnica Salesiana. 
+- The bus ride from Quito to the Yachay Tech campus takes approximately 3 hours.
+
+## Alternative travel options
+
 The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarra terminal will work. Busses go from Ibarra terminal to Urcuquí. From Urcuquí there are buses or pickup trucks that go from the Cemetary to the University. The trip from Ibarra to the University takes about 1 hour. Some detailed examples are below with estimated costs.
 
 ### From Ibarra (Terminal Terreste Ibarra)
@@ -29,8 +35,6 @@ The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarr
 -  Urcuquí pick-up trucks which arrive and depart every 15 minutes and the cost is 0.35 USD
 
 <img width="759" alt="image (2)" src="https://github.com/ciencialatitud0/EPIC_3/assets/37318512/96c2943f-b270-4b27-84b9-2ee37295c9f7">
-
-
 
 
 ### From Quito (Carcelén Bus Station)
@@ -52,7 +56,7 @@ The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarr
 - Then, take another bus to go down to campus (the Urcuquí-Yachay bus costs 0.40 USD).
 
 #### Via taxi from Quito to Urcuquí
-- Quito - Ibarra (15 USD)
+- Quito - Ibarra (20 - 70 USD)
 - Ibarra - Urcuquí (10 USD to 12 USD)
 
 ### From Urcuquí to Ibarra
@@ -66,7 +70,7 @@ Read more on the history of Yachay Tech campus:
 https://www.yachaytech.edu.ec/en/about/history-of-the-campus/
 
 ## Popular attractions near Yachay Tech
-- Yachay Botanical Garden in Urcuquí
+- Yachay Botanical Garden and Archeological Musem in Urcuquí
 - Yahuarcocha lake in Ibarra (busses go 15 minutes from Ibarra 0.35 USD)
 - Mirador San Miguel Arcangel in Ibarra
 - Museo del Cuartel in the centre of Ibarra
