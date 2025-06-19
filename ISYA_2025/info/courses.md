@@ -377,11 +377,35 @@ This course will cover the basics of how radio telescopes work, how we process r
 
 ### Part B: Fernando Buitrago (University of Valladolid), 2 practicals
 
-#### Lecture 4) TBD
+This part aims at getting familiar with most common software techniques used in UV-optical-NIR astronomy
 
+#### Lecture 4) Displaying astronomical images
 
-#### Lecture 5) TBD
+- Showing astronomical images in Jupyter Notebooks
 
+- Reading tabulated files and using their contents
+
+- Useful complementary software: TOPCAT, Aladin, ds9, gnuastro, Source-Extractor
+
+- Useful internet resources: HST, JWST, ESO web archives; esa.sky.int
+
+#### Lecture 5) Determining photometrical properties
+
+- Determining brightnesses
+
+- Creating masks
+
+- Applying our knowledge: inferring galaxy sizes
+
+#### Bibliography:
+
+- Mo, van den Bosch & White (2010). Galaxy Formation and Evolution, CUP.
+
+- Ferreras (2019). Fundamentals of galaxy dynamics, formation and evolution.
+
+- Gnuastro documentation: https://www.gnu.org/savannah-checkouts/gnu/gnuastro/gnuastro.html
+
+- Python Astronomy Course: https://zerjio.com/astronomiaPython/index.html
 
 
 ## Course 7: Optical Observational Astronomy
@@ -685,9 +709,10 @@ based inference). The course will include practical exercises in the form of Jup
 - Astronomy for development
 
 - Are Theories Just Cultural Constructs?
-  
-#### Lecture 2)  Native ontologies in the Andes (J. Vásquez, Universidad San Francisco de Quito, Ecuador)
 
+### Josefina Vásquez, (Universidad San Francisco de Quito, Ecuador)
+
+#### Lecture 2)  Native ontologies in the Andes 
 - Ontologies
   
 - Solar dancers
@@ -725,9 +750,9 @@ based inference). The course will include practical exercises in the form of Jup
 
 - **Project 8:** Interior solutions of compact stars
 
-### Topic 5: TBD (Fernando Buitrago, University of Valladolid)
+### Topic 5: Observational Extragalactic Astronomy (Fernando Buitrago, University of Valladolid)
 2 groups will work on:
 
-- **Project 9:** TBD
+- **Project 9:** Determining the surface brightness profiles of high redshift galaxies in the UV-optical-NIR
 
-- **Project 10:** TBD
+- **Project 10:** Determining the structural parameters of high redshift galaxies in the UV-optical-NIR
