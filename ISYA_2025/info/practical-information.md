@@ -2,7 +2,7 @@
 
 ## Host institution
 
-Yachay Tech is relatively new (founded in 2014) research-oriented university in Ecuador. Its campus is located in the northen region of Ecuador up in the Andes mountains (at an altitude of ~2100 meters above the sea level). This year, Yachay Tech will host the 46th edition of the ISYA school series. If you want to know more about the host institution, please clic on the link below:
+Yachay Tech is relatively new (founded in 2014) research-oriented university in Ecuador. Its campus is located in the northen region of Ecuador up in the Andes mountains (at an altitude of ~2100 meters above the sea level). This year, Yachay Tech will host the 46th edition of the ISYA school series. If you want to know more about the host institution, please have a look at the university's website:
 
 https://yachaytech.edu.ec/
 
@@ -18,7 +18,10 @@ See location: https://goo.gl/maps/XbB5P739rvPBCJCv7
 
 - There is going to be a bus from Quito to the Yachay Tech Campus on Sunday (6th of July) at 3pm. 
 - The meeting point for the bus is: Calle Alfredo Mena Camaño e  Isabel la Católica, Quito (Google map pin: https://maps.app.goo.gl/uxHGVCK4fV6Fhs9dA ). The meeting point is in front of the Universidad Politécnica Salesiana. 
-- The bus ride from Quito to the Yachay Tech campus takes approximately 3 hours.
+- The bus ride from Quito to Yachay Tech takes approximately 3 hours.
+
+### How to get from Quito's airport to Quito:
+- Taxi ~10 USD (40-50 minutes).
 
 ## Alternative travel options
 
@@ -89,7 +92,19 @@ https://yachaytech.edu.ec/en/acerca-de/
 
 ## Popular attractions near Yachay Tech
 - Yachay Botanical Garden and Archeological Musem in Urcuquí
-- Yahuarcocha lake in Ibarra (busses go 15 minutes from Ibarra 0.35 USD)
+- Yahuarcocha lake in Ibarra (busses go every 15 minutes from Ibarra ~0.35 USD)
 - Mirador San Miguel Arcangel in Ibarra
 - Museo del Cuartel in the centre of Ibarra
 - Thermal springs in Chachimbiro (there are no busses that go there, however an Urcuquí pick-up truck to Chamchimbiro costs about 5 USD, this can be economic for a group of 4 people) There are several hot springs distributed on the mountain. We recommend the "Arco Iris Termas de Chachimbiro" (entry is ~5 USD per person) 
+
+## Popular attractions in Quito
+Quito has many popular attractions that are worth visiting. This is a short list to inspire exploring the city.
+
+- The historic centre of Quito (UNESCO World heritage site): many historic buildings, museums and churches
+- El Panecillo: a popular lookout with excellent views of the city
+- La Mariscal: a popular district with restaurants and cafés
+- Basilica
+- The museum of the city of Quito
+- Parque Arqueológico Rumipamba
+- Parque Itchimbía: excellent views of the city
+- Casa Museo Guayasamín y Capilla del Hombre
