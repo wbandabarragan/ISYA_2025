@@ -64,9 +64,10 @@ The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarr
 
 ## Safety in Ecuador
 
-- The Yachay Tech campus has 24 hours security service and safe at all times. 
+- The Yachay Tech campus has 24 hours security service and is safe at all times. 
 - Urcuquí is a small village and is generally safe. 
 - Quito is a big city and caution must be exercised at all times. In addition, we strongly recommend to not walk in the city at night. If you wish to go out for dinner in Quito we recommend to take a taxi or uber.
+- **The general emergency phone number in Ecudor is: 911.** 
 
 ## History of Yachay Tech campus
 
