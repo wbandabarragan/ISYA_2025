@@ -12,7 +12,7 @@ The campus of Yachay Tech is located in the Urcuquí canton in the Imbabura prov
 
 See location: https://goo.gl/maps/XbB5P739rvPBCJCv7
 
-- Ther is going to be a bus from Quito to the Yachay Tech Campus on Sunday (6th of July) at 3pm. 
+- There is going to be a bus from Quito to the Yachay Tech Campus on Sunday (6th of July) at 3pm. 
 - The meeting point for the bus is: Calle Alfredo Mena Camaño e  Isabel la Católica, Quito (Google map pin: https://maps.app.goo.gl/uxHGVCK4fV6Fhs9dA ). The meeting point is in front of the Universidad Politécnica Salesiana. 
 - The bus ride from Quito to the Yachay Tech campus takes approximately 3 hours.
 
@@ -62,6 +62,11 @@ The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarr
 ### From Urcuquí to Ibarra
 - The last bus from Urcuquí leaves at 18h30.
 
+## Safety in Ecuador
+
+- The Yachay Tech campus has 24 hours security service and safe at all times. 
+- Urcuquí is a small village and is generally safe. 
+- Quito is a big city and caution must be exercised at all times. In addition, we strongly recommend to not walk in the city at night. If you wish to go out for dinner in Quito we recommend to take a taxi or uber.
 
 ## History of Yachay Tech campus
 
