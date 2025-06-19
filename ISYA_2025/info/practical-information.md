@@ -71,15 +71,15 @@ The nearest town to Yachay Tech is Ibarra. To get to Yachay any bus to the Ibarr
 
 ## History of the Yachay Tech campus
 
-Read more about the Yachay Tech campus: 
+Read more about the **Yachay Tech campus**: 
 
 https://yachaytech.edu.ec/en/conoce-el-campus/
 
-Read more about the Archeological Museum:
+Read more about the **Archeological Museum**:
 
 https://yachaytech.edu.ec/en/museo-arqueologico-yachay-tech/
 
-Read more on the history of Yachay Tech campus:
+Read more on the **history** of Yachay Tech campus:
 
 https://yachaytech.edu.ec/en/acerca-de/
 
