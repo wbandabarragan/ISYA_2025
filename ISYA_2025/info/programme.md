@@ -46,9 +46,9 @@ Preliminary Programme
 |------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|
 | 07:30–08:30 | Breakfast | Breakfast         | Breakfast    | Breakfast    | Breakfast          |
 | 08:30–10:00 | Cosmology  | Interstellar Medium  | Cosmology   | Python for Astro | Group Presentations  | 
-| 10:00–11:30 | Stellar Astrophysics |Cosmology | Galaxies    | Local Talks  | Group Presentations |
+| 10:00–11:30 | Stellar Astrophysics |Cosmology | Galaxies    | Astro Talks  | Group Presentations |
 | 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     |
-| 12:00–13:30 | Virtual Observatory   |  Galaxies  | Python for Astro | Local talks   | Career Development: Ethics    |
+| 12:00–13:30 | Virtual Observatory   |  Galaxies  | Python for Astro | Astro Talks   | Career Development: Ethics    |
 | 13:30–15:00 | Lunch | Lunch | Lunch| Lunch  | Lunch  |
 | 15:00–16:30 | Virtual Observatory  | Virtual Observatory  | Virtual Observatory   | Virtual Observatory  |School Closure  |
 | 16:30–17:00 | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break              |    
