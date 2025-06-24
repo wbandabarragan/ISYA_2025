@@ -762,4 +762,5 @@ based inference). The course will include practical exercises in the form of Jup
 ### Topic 7: TBD (Benjamín de Zayas, Yachay Tech)
 
 - **Project 11:** TBD
-
+  
+- **Project 12:** ?
