@@ -741,18 +741,25 @@ based inference). The course will include practical exercises in the form of Jup
 
 - **Project 5:** Characterising shock waves in ISM collisions
 
-- **Project 6:** Synthetic spectra from galactic wind simulations
-
 ### Topic 4: Compact Objects and Stellar Models (David Andrade, Yachay Tech)
 2 groups will work on:
 
-- **Project 7:** Interior solutions by gravitational decoupling
+- **Project 6:** Interior solutions by gravitational decoupling
 
-- **Project 8:** Interior solutions of compact stars
+- **Project 7:** Interior solutions of compact stars
 
 ### Topic 5: Observational Extragalactic Astronomy (Fernando Buitrago, University of Valladolid)
 2 groups will work on:
 
-- **Project 9:** Determining the surface brightness profiles of high redshift galaxies in the UV-optical-NIR
+- **Project 8:** Determining the surface brightness profiles of high redshift galaxies in the UV-optical-NIR
 
-- **Project 10:** Determining the structural parameters of high redshift galaxies in the UV-optical-NIR
+- **Project 9:** Determining the structural parameters of high redshift galaxies in the UV-optical-NIR
+
+### Topic 6: TBD (José Manuel Ramírez, Yachay Tech)
+
+- **Project 10:** TBD
+
+### Topic 7: TBD (Benjamín de Zayas, Yachay Tech)
+
+- **Project 11:** TBD
+
