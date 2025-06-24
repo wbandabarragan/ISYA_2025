@@ -30,3 +30,5 @@
 28. Selma Adriana Vasquez Barrios
 29. Valeria Torres Gomez
 30. Yessica Dominguez Ballesteros
+31. Christian Andrade
+32. Ricardo Paul Calderon Alvarez
