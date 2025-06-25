@@ -700,24 +700,35 @@ based inference). The course will include practical exercises in the form of Jup
 
 
 ## Course 11: Cultural astronomy
-###  Nicolás Vásquez (Escuela Politécnica Nacional, Ecuador)
 
-#### Lecture 1) Astronomy and society
+###  Lua Salomón & Armando Anzellini (USA)
+
+#### Lecture 1) Looking towards the Sky: Plural Realities, Ontologies and Ways of Knowing
+
+- Ontologies
+  
+- Solar dancers
+  
+- Should Asteroids Be Considered Heritage?
+
+
+### Josefina Vásquez (Universidad San Francisco de Quito, Ecuador)
+
+#### Lecture 2) Skyscapes and Astroculture: Bridging Natural and Social Science Museographies
+
+- Skyscapes and Astroculture
+
+- Natural and Social Science Museographies
+
+### Nicolás Vásquez (Escuela Politécnica Nacional, Ecuador)
+
+#### Lecture 3) The Missing Link: Social Responsibility in Scientific Practice
 
 - The sky in human history
 
 - Astronomy for development
 
 - Are Theories Just Cultural Constructs?
-
-### Josefina Vásquez, (Universidad San Francisco de Quito, Ecuador)
-
-#### Lecture 2)  Native ontologies in the Andes 
-- Ontologies
-  
-- Solar dancers
-  
-- Should Asteroids Be Considered Heritage?
 
 
 # Student projects
