@@ -1,4 +1,4 @@
-# Lecturers and Tutors
+# Lecturers
 
 - Stellar Astrophysics, Alessandro Bressan (SISSA, Italy)
 
@@ -24,4 +24,20 @@
 
 - Cultural Astronomy, Nicolás Vásquez (EPN, Ecuador)
 
+# Tutors and Speakers
+
 - Cosmology, Clara Rojas (Yachay Tech U., Ecuador)
+  
+- Extragalactic Astrophysics, Daniela Galárraga-Espinosa (IPMU, Japan)
+  
+- Galaxy Evolution, Silvana Delgado Andrade (Texas A&M University, USA)
+
+- Cultural Astronomy, Josefina Vásquez (USFQ, Ecuador)
+
+- Cultural Astronomy, Lua Salomón (USA)
+  
+- Cultural Astronomy, Armando Anzellini (USA)
+
+- Astrophysics, José Manuel Ramírez (Yachay Tech U., Ecuador)
+
+- Theoretical Astrophysics, David Andrade (Yachay Tech U., Ecuador)
