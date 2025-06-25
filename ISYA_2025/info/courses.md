@@ -720,6 +720,7 @@ based inference). The course will include practical exercises in the form of Jup
 
 - Natural and Social Science Museographies
 
+
 ### Nicolás Vásquez (Escuela Politécnica Nacional, Ecuador)
 
 #### Lecture 3) The Missing Link: Social Responsibility in Scientific Practice
