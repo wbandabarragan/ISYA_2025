@@ -50,7 +50,7 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
   
 4. Arrange for 2 letters of recommendation to be sent (directly by the recommenders) via email to: isya2025.ecuador@yachaytech.edu.ec
 
-## Lecturers and Tutors
+## Lecturers
 
 - Stellar Astrophysics, Alessandro Bressan (SISSA, Italy)
 
@@ -76,7 +76,23 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 - Cultural Astronomy, Nicolás Vásquez (EPN, Ecuador)
 
-- Cosmology, Clara Rojas - Yachay Tech University
+## Tutors and Speakers
+
+- Cosmology, Clara Rojas (Yachay Tech U., Ecuador)
+  
+- Extragalactic Astrophysics, Daniela Galárraga-Espinosa (IPMU, Japan)
+  
+- Galaxy Evolution, Silvana Delgado Andrade (Texas A&M University, USA)
+
+- Cultural Astronomy, Josefina Vásquez (USFQ, Ecuador)
+
+- Cultural Astronomy, Lua Salomón (USA)
+  
+- Cultural Astronomy, Armando Anzellini (USA)
+
+- Astrophysics, José Manuel Ramírez (Yachay Tech U., Ecuador)
+
+- Theoretical Astrophysics, David Andrade (Yachay Tech U., Ecuador)
 
 
 ## Organising Committee
