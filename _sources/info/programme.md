@@ -7,12 +7,12 @@ Preliminary Programme
 | Time       | Monday              | Tuesday                      | Wednesday                   | Thursday                          | Friday                          | 
 |------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|
 | 07:30–08:30 | Breakfast | Breakfast         | Breakfast    | Breakfast    | Breakfast          | 
-| 08:30–10:00 | School Openning  | Galaxies       | Stellar Astrophysics   | Stellar Astrophysics  |   Cultural Astronomy         |
+| 08:30–10:00 | School Openning  | Galaxies       | Stellar Astrophysics   | Stellar Astrophysics  |   Radio Astronomy        |
 | 10:00–11:30 | Interstellar Medium | Radio Astronomy  | Compact Objects     | Compact Objects     | Posters|| |
 | 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     || |
 | 12:00–13:30 | Galaxies   |   Career Development: Careers  | Galaxies |Interstellar Medium   | Posters    || |
 | 13:30–15:00 | Lunch | Lunch | Lunch| Lunch  | Lunch  |
-| 15:00–16:30 | IA: IAU and ISYAs | Python for Astro | Radio Astronomy  |  Python for Astro | Radio Astronomy  || |
+| 15:00–16:30 | IA: IAU and ISYAs | Python for Astro | Radio Astronomy  |  Python for Astro | Cultural Astronomy  || |
 | 16:30–17:00 | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break              | Tea/Coffee Break     || |
 | 17:00–18:30 | Group Projects: organisation  | Group Projects | Python for Astro | Career Development: Interests        | Compact Objects     || |
 | 18:30–19:30 | Group Projects  | Group Projects | Group Projects | Group Projects              | Group Projects     || |
