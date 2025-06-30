@@ -16,7 +16,7 @@
 
 - Python for Astrophysics II, Fernando Buitrago, University of Valladolid (Spain)
 
-- Optical Observational Astronomy, Karín Menénde-Delmestre (Obs. Valongo, Brazil)
+- Optical Observational Astronomy, Karín Menéndez-Delmestre (Obs. Valongo, Brazil)
   
 - Virtual Observatory, Thiago Signori (Obs. Valongo, Brazil)
 
