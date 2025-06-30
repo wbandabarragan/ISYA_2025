@@ -27,11 +27,11 @@ Preliminary Programme
 |------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|
 | 07:30–08:30 | Breakfast | Breakfast         | Breakfast    | Breakfast    | Breakfast          | 
 | 08:30–10:00 | Stellar Astrophysics  | Compact Objects       | Cosmology  | Interstellar Medium  | Cosmology   | 
-| 10:00–11:30 | Compact Objects  | Observational Astronomy | Stellar Astrophysics    | Cultural Astronomy | Observational Astronomy  || |
+| 10:00–11:30 | Machine Learning | Machine Learning | Machine Learning | Machine Learning | Machine Learning  || |
 | 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     || |
 | 12:00–13:30 | Observational Astronomy   |  Interstellar Medium | Observational Astronomy  |Observational Astronomy   | Observational Astronomy     || |
 | 13:30–15:00 | Lunch | Lunch | Lunch| Lunch  | Lunch  |
-| 15:00–16:30 | Machine Learning | Machine Learning | Machine Learning | Machine Learning | Machine Learning  || |
+| 15:00–16:30 | Compact Objects  | Observational Astronomy | Stellar Astrophysics | Cultural Astronomy | Observational Astronomy  || |
 | 16:30–17:00 | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break              | Tea/Coffee Break     || |
 | 17:00–18:30 | Career Development: Papers  | Group Projects |  Group Projects |Group Projects         | Group Projects     || |
 | 18:30–19:30 | Group Projects  | Group Projects | Group Projects | Group Projects    | Group Projects     || |
