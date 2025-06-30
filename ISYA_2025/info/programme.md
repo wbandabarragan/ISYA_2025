@@ -34,7 +34,7 @@ Preliminary Programme
 | 15:00–16:30 | Compact Objects  | Observational Astronomy | Stellar Astrophysics | Cultural Astronomy | Observational Astronomy  || |
 | 16:30–17:00 | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break              | Tea/Coffee Break     || |
 | 17:00–18:30 | Career Development: Papers  | Group Projects |  Group Projects |Group Projects         | Group Projects     || |
-| 18:30–19:30 | Group Projects  | Group Projects | Group Projects | Group Projects    | Group Projects     || |
+| 18:30–19:30 | <span style="color:green">Group Projects</span>  | Group Projects | Group Projects | Group Projects    | Group Projects     || |
 | 19:30–21:30 | Dinner    | Dinner    | Dinner    | Dinner    | Dinner    | 
 | 21:00– | Group Projects  | Group Projects | Group Projects | Group Projects            | Group Projects     |
 
