@@ -2,7 +2,7 @@
 
 - Stellar Astrophysics, Alessandro Bressan (SISSA, Italy)
 
-- Compact Objects, Jorge Rueda (ICRA, Italy)
+- Compact Objects, Ignacio Ranea Sandoval	(Universidad Nacional de La Plata, Argentina)
   
 - Interstellar Medium, Laurence Sabin (IA-UNAM, Mexico)
   
@@ -12,9 +12,11 @@
 
 - Radio Astronomy, Helga Dénes (Yachay Tech U., Ecuador)
 
-- Python for Astrophysics, Wladimir Banga-Barragán (Yachay Tech U., Ecuador)
+- Python for Astrophysics I, Wladimir Banda-Barragán (Yachay Tech U., Ecuador)
 
-- Optical Observational Astronomy, Karín Menénde-Delmestre (Obs. Valongo, Brazil)
+- Python for Astrophysics II, Fernando Buitrago, University of Valladolid (Spain)
+
+- Optical Observational Astronomy, Karín Menéndez-Delmestre (Obs. Valongo, Brazil)
   
 - Virtual Observatory, Thiago Signori (Obs. Valongo, Brazil)
 
@@ -22,30 +24,20 @@
 
 - Cultural Astronomy, Nicolás Vásquez (EPN, Ecuador)
 
-# Tutors and student projects
+# Tutors and Speakers
 
-- Clara Rojas (Yachay Tech U., Ecuador)
-  Inflationary cosmology models
-
-  Study of the scalar power spectrum for the Hilltop inflationary model using the uniform approximation method.
-
-  Study of the tensor power spectrum for the Hilltop inflationary model using the uniform approximation method.
+- Cosmology, Clara Rojas (Yachay Tech U., Ecuador)
   
-- Helga Dénes (Yachay Tech U., Ecuador)
+- Extragalactic Astrophysics, Daniela Galárraga-Espinosa (IPMU, Japan)
   
-  Gaussian decomposition of spectral line data cubes
+- Galaxy Evolution, Silvana Delgado Andrade (Texas A&M University, USA)
+
+- Cultural Astronomy, Josefina Vásquez (USFQ, Ecuador)
+
+- Cultural Astronomy, Lua Salomón (USA)
   
-  Analysing galaxy kinematics with radio data
-  
-- Wladimir Banda-Barragán (Yachay Tech U., Ecuador)
+- Cultural Astronomy, Armando Anzellini (USA)
 
-  Characterising shock waves in ISM collisions
+- Astrophysics, José Manuel Ramírez (Yachay Tech U., Ecuador)
 
-  Synthetic spectra from galactic wind simulations
-
-- Nicolás Vásquez (EPN, Ecuador)
-  Studies on gamma-ray bursts
-
-- Daniela Galárraga-Espinosa (MPA Garching, Gemrmany)
-  
-- David Andrade (Yachay Tech U., Ecuador)
+- Theoretical Astrophysics, David Andrade (Yachay Tech U., Ecuador)

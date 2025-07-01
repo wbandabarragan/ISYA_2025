@@ -25,7 +25,7 @@ Preliminary Programme
 
 | Time       | Monday              | Tuesday                      | Wednesday                   | Thursday                          | Friday                          |
 |------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|
-| 07:30–08:30 | Breakfast | Breakfast         | Breakfast    | Breakfast    | Breakfast          | 
+| 07:00–08:30 | Breakfast | Breakfast         | Breakfast    | Breakfast    | Breakfast          | 
 | 08:30–10:00 | Stellar Astrophysics  | Compact Objects       | Cosmology  | Interstellar Medium  | Cosmology   | 
 | 10:00–11:30 | Compact Objects | Machine Learning | Stellar Astrophysics   | Machine Learning | Machine Learning  || |
 | 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     || |
@@ -44,7 +44,7 @@ Preliminary Programme
 
 | Time       | Monday              | Tuesday                      | Wednesday                   | Thursday                          | Friday                          | 
 |------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|
-| 07:30–08:30 | Breakfast | Breakfast  | Breakfast  | Breakfast    | Breakfast   |
+| 07:00–08:30 | Breakfast | Breakfast  | Breakfast  | Breakfast    | Breakfast   |
 | 08:30–10:00 | Cosmology  | Interstellar Medium  | Cosmology   | Group Presentations |   | 
 | 10:00–11:30 | Stellar Astrophysics | Cosmology | Astro Talks  | Group Presentations |  |
 | 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     |

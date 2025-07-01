@@ -50,11 +50,11 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
   
 4. Arrange for 2 letters of recommendation to be sent (directly by the recommenders) via email to: isya2025.ecuador@yachaytech.edu.ec
 
-## Lecturers and Tutors
+## Lecturers
 
 - Stellar Astrophysics, Alessandro Bressan (SISSA, Italy)
 
-- Compact Objects, Jorge Rueda (ICRA, Italy)
+- Compact Objects, Ignacio Ranea Sandoval	(Universidad Nacional de La Plata, Argentina)
   
 - Interstellar Medium, Laurence Sabin (IA-UNAM, Mexico)
   
@@ -64,7 +64,9 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 - Radio Astronomy, Helga Dénes (Yachay Tech U., Ecuador)
 
-- Python for Astrophysics, Wladimir Banga-Barragán (Yachay Tech U., Ecuador)
+- Python for Astrophysics I, Wladimir Banda-Barragán (Yachay Tech U., Ecuador)
+
+- Python for Astrophysics II, Fernando Buitrago, University of Valladolid (Spain)
 
 - Optical Observational Astronomy, Karín Menéndez-Delmestre (Obs. Valongo, Brazil)
   
@@ -73,6 +75,24 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 - Machine Learning, Juan Rafael Martínez Galarza (CfA, Harvard, USA)
 
 - Cultural Astronomy, Nicolás Vásquez (EPN, Ecuador)
+
+## Tutors and Speakers
+
+- Cosmology, Clara Rojas (Yachay Tech U., Ecuador)
+  
+- Extragalactic Astrophysics, Daniela Galárraga-Espinosa (IPMU, Japan)
+  
+- Galaxy Evolution, Silvana Delgado Andrade (Texas A&M University, USA)
+
+- Cultural Astronomy, Josefina Vásquez (USFQ, Ecuador)
+
+- Cultural Astronomy, Lua Salomón (USA)
+  
+- Cultural Astronomy, Armando Anzellini (USA)
+
+- Astrophysics, José Manuel Ramírez (Yachay Tech U., Ecuador)
+
+- Theoretical Astrophysics, David Andrade (Yachay Tech U., Ecuador)
 
 
 ## Organising Committee
@@ -95,13 +115,15 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
   
 * Clara Rojas - Yachay Tech University
 
+* Julio Chacón - Yachay Tech University
+
 * José Manuel Ramírez - Yachay Tech University
   
 * Christian Vásconez - Escuela Politécnica Nacional
  
 * Benjamín de Zayas - Yachay Tech University
   
-* Lofti Boubekeur - Escuela Politécnica Nacional
+* Álvaro Dueñas - Escuela Politécnica Nacional
  
 * Lenin Jácome - Yachay Tech University
   
@@ -114,6 +136,9 @@ https://yachaytech.edu.ec/escuela-de-ciencias-fisicas-y-nanotecnologia
 
 ## School Poster
 
+![ISYA](https://github.com/user-attachments/assets/6a8ccefb-1398-49bd-8716-127884148821)
+
+![LOC](https://github.com/user-attachments/assets/97388750-51ef-473d-80bb-2c3d4ea05e25)
 
 
 ```{tableofcontents}
