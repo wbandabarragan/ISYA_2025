@@ -7,15 +7,15 @@ Preliminary Programme
 | Time       | Monday              | Tuesday                      | Wednesday                   | Thursday                          | Friday                          | 
 |------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|
 | 07:30–08:30 | Breakfast | Breakfast         | Breakfast    | Breakfast    | Breakfast          | 
-| 08:30–10:00 | School Openning  | Galaxies       | Stellar Astrophysics   | Stellar Astrophysics  |   Cultural Astronomy         |
-| 10:00–11:30 | Interstellar Medium | Radio Astronomy  | Compact Objects     | Compact Objects     | Posters|| |
-| 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     || |
-| 12:00–13:30 | Galaxies   |   Career Development: Careers  | Galaxies |Interstellar Medium   | Posters    || |
+| 08:30–10:00 | School Openning  | Galaxies       | Stellar Astrophysics   | Stellar Astrophysics  | Career Development: Interests  |
+| 10:00–11:30 | Interstellar Medium | Radio Astronomy  | Compact Objects  | Compact Objects  | Compact Objects || |
+| 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break  || |
+| 12:00–13:30 | Galaxies   |   Career Development: Careers  | Galaxies |Interstellar Medium   | Radio Astronomy || |
 | 13:30–15:00 | Lunch | Lunch | Lunch| Lunch  | Lunch  |
-| 15:00–16:30 | IA: IAU and ISYAs | Python for Astro | Radio Astronomy  |  Python for Astro | Radio Astronomy  || |
+| 15:00–16:30 | Group Projects: organisation| Python for Astro | Radio Astronomy  |  Python for Astro | Cultural Astronomy   || |
 | 16:30–17:00 | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break              | Tea/Coffee Break     || |
-| 17:00–18:30 | Group Projects: organisation  | Group Projects | Python for Astro | Career Development: Interests        | Compact Objects     || |
-| 18:30–19:30 | Group Projects  | Group Projects | Group Projects | Group Projects              | Group Projects     || |
+| 17:00–18:30 | IA: IAU and ISYAs | Group Projects | Python for Astro | Group Projects | Group Projects  || |
+| 18:30–19:30 | Group Projects  | Group Projects | Group Projects | Group Projects   | Group Projects     || |
 | 19:30–21:30 | Dinner    | Dinner    | Dinner    | Dinner    | Dinner    | 
 | 21:00– | Group Projects  | Group Projects | Group Projects | Group Projects            | Group Projects     |
 
@@ -27,16 +27,16 @@ Preliminary Programme
 |------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|
 | 07:30–08:30 | Breakfast | Breakfast         | Breakfast    | Breakfast    | Breakfast          | 
 | 08:30–10:00 | Stellar Astrophysics  | Compact Objects       | Cosmology  | Interstellar Medium  | Cosmology   | 
-| 10:00–11:30 | Machine Learning | Machine Learning | Machine Learning | Machine Learning | Machine Learning  || |
+| 10:00–11:30 | Compact Objects | Machine Learning | Stellar Astrophysics   | Machine Learning | Machine Learning  || |
 | 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     || |
-| 12:00–13:30 | Observational Astronomy   |  Interstellar Medium | Observational Astronomy  |Observational Astronomy   | Observational Astronomy     || |
+| 12:00–13:30 | Machine Learning   |  Interstellar Medium | Machine Learning  |Observational Astronomy   | Observational Astronomy     || |
 | 13:30–15:00 | Lunch | Lunch | Lunch| Lunch  | Lunch  |
-| 15:00–16:30 | Compact Objects  | Observational Astronomy | Stellar Astrophysics | Cultural Astronomy | Observational Astronomy  || |
-| 16:30–17:00 | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break              | Tea/Coffee Break     || |
-| 17:00–18:30 | Career Development: Papers  | Group Projects |  Group Projects |Group Projects         | Group Projects     || |
-| 18:30–19:30 | Group Projects  | Group Projects | Group Projects | Group Projects    | Group Projects     || |
+| 15:00–16:30 | Observational Astronomy | Observational Astronomy | Stellar Astrophysics | Cultural Astronomy | Observational Astronomy  || |
+| 16:30–17:00 | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     || |
+| 17:00–18:30 | Career Development: Papers  | Group Projects |  Group Projects |Group Projects   | Group Projects     || |
+| 18:30–19:30 | Group Projects  | Group Projects | Group Projects | Group Projects   | Group Projects     || |
 | 19:30–21:30 | Dinner    | Dinner    | Dinner    | Dinner    | Dinner    | 
-| 21:00– | Group Projects  | Group Projects | Group Projects | Group Projects            | Group Projects     |
+| 21:00– | Group Projects  | Group Projects | Group Projects | Group Projects  | Group Projects     |
 
 ---
 
@@ -44,15 +44,15 @@ Preliminary Programme
 
 | Time       | Monday              | Tuesday                      | Wednesday                   | Thursday                          | Friday                          | 
 |------------|---------------------|------------------------------|-----------------------------|-----------------------------------|---------------------------------|
-| 07:30–08:30 | Breakfast | Breakfast         | Breakfast    | Breakfast    | Breakfast          |
-| 08:30–10:00 | Cosmology  | Interstellar Medium  | Cosmology   | Python for Astro | Group Presentations  | 
-| 10:00–11:30 | Stellar Astrophysics |Cosmology | Galaxies    | Astro Talks  | Group Presentations |
+| 07:30–08:30 | Breakfast | Breakfast  | Breakfast  | Breakfast    | Breakfast   |
+| 08:30–10:00 | Cosmology  | Interstellar Medium  | Cosmology   | Group Presentations |   | 
+| 10:00–11:30 | Stellar Astrophysics | Cosmology | Astro Talks  | Group Presentations |  |
 | 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     |
-| 12:00–13:30 | Virtual Observatory   |  Galaxies  | Python for Astro | Astro Talks   | Career Development: Ethics    |
+| 12:00–13:30 | Virtual Observatory |  Galaxies  | Python for Astro | Virtual Observatory   | Career Development: Ethics    |
 | 13:30–15:00 | Lunch | Lunch | Lunch| Lunch  | Lunch  |
-| 15:00–16:30 | Virtual Observatory  | Virtual Observatory  | Virtual Observatory   | Virtual Observatory  |School Closure  |
+| 15:00–16:30 | Virtual Observatory  | Virtual Observatory  | Virtual Observatory  | Python for Astro |School Closure  |
 | 16:30–17:00 | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break              |    
-| 17:00–18:30 | Cultural Astronomy | Career Development: Jobs | Group Projects | Observations  |   |
+| 17:00–18:30 | Cultural Astronomy | Career Development: Jobs |Astro Talks | Observations  |   |
 | 18:30–19:30 | Group Projects  | Group Projects | Group Projects | Observations  |    |
 | 19:30–21:30 | Dinner    | Dinner    | Dinner    | Dinner    | Dinner    |
 | 21:00– | Group Projects  | Group Projects | Group Projects | Observations |    |
