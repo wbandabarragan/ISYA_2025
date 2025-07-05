@@ -31,7 +31,7 @@ Preliminary Programme
 | 11:30–12:00 | Tea/Coffee Break  | Tea/Coffee Break |Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     || |
 | 12:00–13:30 | Machine Learning   |  Interstellar Medium | Machine Learning  |Observational Astronomy   | Observational Astronomy     || |
 | 13:30–15:00 | Lunch | Lunch | Lunch| Lunch  | Lunch  |
-| 15:00–16:30 | Observational Astronomy | Observational Astronomy | Stellar Astrophysics | Cultural Astronomy | Observational Astronomy  || |
+| 15:00–16:30 | Observational Astronomy | Observational Astronomy | Observational Astronomy | Cultural Astronomy | Observational Astronomy  || |
 | 16:30–17:00 | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break | Tea/Coffee Break   | Tea/Coffee Break     || |
 | 17:00–18:30 | Career Development: Papers  | Group Projects |  Group Projects |Group Projects   | Group Projects     || |
 | 18:30–19:30 | Group Projects  | Group Projects | Group Projects | Group Projects   | Group Projects     || |
